@@ -1,0 +1,4 @@
+# Direct runtime dependency for the Slice 4 skeleton.
+# Python 3.11.2 / Streamlit 1.65.0 passed the owner's local browser checks.
+# Keep this version through the Cloud smoke test; finalise the environment record afterward.
+streamlit==1.65.0
