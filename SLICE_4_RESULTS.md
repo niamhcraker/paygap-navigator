@@ -1,8 +1,39 @@
 # Slice 4 — Deploy first skeleton (12 October 2026)
 
-**Status: PARTIALLY COMPLETE — deployment package and local automated checks pass; GitHub publication, Streamlit Community Cloud deployment, and public clean-browser checks remain NOT VERIFIED.**
+**Status: COMPLETE — OWNER APPROVED on 12 October 2026.** The public Streamlit Community Cloud skeleton is live and passed the owner’s clean/private-browser checks. The repository and original deployed commit have been inspected through the connected GitHub account. Tests attributed to the owner are distinguished from assistant-run checks.
 
 The owner approved Slice 3 after reporting successful local Mac browser testing on **Python 3.11.2 / Streamlit 1.65.0**, and authorised Slice 4. See `SLICE_3_RESULTS.md` for the owner-observed outcomes.
+
+## Deployment record and verification (12 October 2026)
+
+| Detail | Confirmed value | Evidence |
+|---|---|---|
+| Live URL | https://paygap-navigator.streamlit.app/ | Owner supplied; clean/private-browser opening passed according to owner |
+| GitHub repository | `niamhcraker/paygap-navigator` | Owner supplied; repository directly inspected through GitHub connection |
+| Branch | `main` | Owner supplied; GitHub default branch confirmed as `main` |
+| Main file | `app.py` | Owner supplied |
+| Cloud Python selection | `3.11` | Owner supplied; exact Cloud Python patch not independently recorded |
+| Streamlit dependency | `streamlit==1.65.0` | Pinned deployment manifest prepared during Slice 4; Cloud runtime version not separately verified from deployment logs |
+| Original deployed/main commit | `6db7fb06fb75445092cbf87d02c4c449c2aac324` | Owner identified as deployed/current at verification; commit independently found in the named GitHub repository |
+| User approval | **Slice 4 approved as complete** | Owner explicitly approved in conversation |
+
+The owner's Mac test environment was Python **3.11.2** and Streamlit **1.65.0**. Python **3.11** was selected on Cloud. The exact Cloud Python patch and Streamlit runtime version have not been independently read from Cloud logs.
+
+### Public cloud smoke tests — owner observed in a clean/private browser
+
+| Check | Actual observation | Outcome |
+|---|---|---|
+| Public access (DEP-01) | URL loaded with no Streamlit authentication | **PASS — owner-verified** |
+| Initial access guard (DEP-02 / DEP-09) | No access to results before a successful calculation | **PASS — owner-verified** |
+| Start action (DEP-03) | Revealed input fields | **PASS — owner-verified** |
+| T001 (DEP-04) | Year 2026; top R10,000,000; bottom R1,000,000 produced **10.0 : 1** | **PASS — owner-verified** |
+| Navigation (DEP-05, confirmed result) | Screen 3 and return navigation preserved the confirmed result | **PASS — owner-verified for this journey** |
+| T004 (DEP-07) | Zero bottom remuneration blocked | **PASS — owner-verified** |
+| T006 (DEP-08) | Blank required amount blocked | **PASS — owner-verified** |
+
+**No deployment or browser failures were reported.** The owner expressly approved Slice 4. Checks not separately described in the Cloud report remain unclaimed: every draft-widget restoration path (remaining DEP-05 detail), fresh Cloud-only draft-edit test without confirmation (DEP-06; passed locally in Slice 3), post-deployment recheck of Mac fallback (DEP-10), and exact Cloud patch/runtime details (part of DEP-11). These are evidence distinctions, not reported defects.
+
+The GitHub commit is verified to exist in this repository; its association with the deployed Cloud build is based on the owner's supplied deployment information, **not** an independent inspection of the Streamlit Cloud deployment dashboard. This documentation-only update will produce a newer `main` commit; that newer documentation commit must not be mistaken for the original deployed application-code baseline.
 
 ## Narrow objective
 
@@ -34,43 +65,40 @@ Deploy **only the approved thin three-screen current-year ratio skeleton** to Gi
 | README and Cloud checklist static checks | Local run instruction, T001, and DEP-11 environment checkpoint present | **PASS** |
 | Mac local browser tests (previous slice) | Owner reported valid 3-screen journey; T001 10.0:1; draft/confirmed separation; zero/missing blocking | **PASS — owner-reported Slice 3** |
 | Streamlit launch in assistant container | Streamlit unavailable in assistant Python 3.13.5 environment; no successful native launch here | **NOT RUN** |
-| GitHub publication and remote commit | No connected GitHub account and no authenticated remote available in this environment | **NOT DONE** |
-| Streamlit Community Cloud deployment | No authorised authenticated Streamlit Community Cloud workspace accessible to this assistant | **NOT DONE** |
-| Public app clean-browser smoke | No actual deployed URL available | **NOT RUN** |
+| GitHub publication and original deployed commit | Owner published to `niamhcraker/paygap-navigator`; original deployed commit `6db7fb06fb75445092cbf87d02c4c449c2aac324` confirmed to exist via connected GitHub | **COMPLETE — owner publication / repository inspected** |
+| Streamlit Community Cloud deployment | Owner published the three-screen app at https://paygap-navigator.streamlit.app/ | **COMPLETE — owner-reported** |
+| Public app clean-browser smoke | Owner ran the specified essential smoke tests using clean/private browser; details above | **PASS — owner-verified** |
 
-**Failure/blocker:** External publishing requires authentication to the owner's GitHub and Streamlit Community Cloud accounts. This is an **access blocker**, not evidence of failing code or an unsuccessful Cloud deployment. The source has not been presented as hosted.
+**Resolved access blocker:** GitHub and Cloud deployment were completed by the owner. The connected GitHub repository and original deployed commit have now been inspected. The assistant has not separately executed the Cloud smoke tests or inspected the Cloud deployment dashboard.
 
-## Proposed deployment configuration (pending live verification)
+## Verified deployment configuration
 
-- GitHub repository: **PENDING OWNER CONNECTION/PUBLISH**; suggested root contains `app.py`, `calculations.py`, `requirements.txt`, `.gitignore`, `README.md`, and `tests/`.
-- Branch: `main` unless owner's existing Git repository requires another.
-- Streamlit Cloud main file: `app.py`.
-- Python: choose **3.11** in Advanced settings to match owner's working Python 3.11.2 minor release; Cloud patch version **PENDING**.
-- Streamlit: **1.65.0**, pinned in the runtime requirements.
-- User secrets/API keys: **none required**.
-- Public URL: **PENDING**.
-- Remote GitHub commit hash: **PENDING**.
-- Do not include real company remuneration data in the public repository or demo.
+- GitHub repository: `niamhcraker/paygap-navigator`, branch `main`.
+- Main application file: `app.py`.
+- Original deployed code commit: `6db7fb06fb75445092cbf87d02c4c449c2aac324` (verified GitHub commit, owner-assigned deployed baseline).
+- Streamlit Community Cloud Python selection: **3.11**; exact patch unrecorded.
+- Direct runtime dependency: `streamlit==1.65.0` in the deployment preparation manifest; running Cloud version not independently logged.
+- User secrets/API keys: none required for this skeleton.
+- Public URL: **https://paygap-navigator.streamlit.app/**.
+- Public app and essential tests: passed in the owner's clean/private-browser check.
 
-## Next steps to satisfy Slice 4 gate — NOT further development slices
+## Completion, remaining evidence and scope boundary
 
-1. Publish the extracted project files to the owner's GitHub repository, preserving the repository-root structure; record the actual commit hash.
-2. Deploy from that repository at `https://share.streamlit.io/`, selecting Python **3.11** in Advanced settings, with main file path `app.py`.
-3. Observe deployment/build logs; report any dependency/runtime failures verbatim (excluding secrets or sensitive data) before changing architecture or library versions.
-4. Open the **actual** public URL in a clean/private browser and perform DEP-01 through DEP-11 from `SLICE_4_CLOUD_CHECKS.md`, including T001/T004/T006, navigation and draft preservation.
-5. Independently verify local execution still works as fallback.
-6. Record URL, GitHub commit, Cloud Python/Streamlit versions, actual pass/fail outcomes, fixes and retests; request owner's review before Slice 5.
+1. GitHub publication: **completed by owner**, original deployed commit captured above.
+2. Community Cloud deployment: **completed by owner**, live public URL captured above.
+3. Clean/private-browser essential acceptance: **passed according to owner**, including access guard, Start, T001, navigation, T004 and T006.
+4. Previous local fallback: passed during Slice 3 on Mac; not independently retested after Cloud launch.
+5. Optional documentation follow-up: exact Cloud Python patch/Streamlit runtime and any unreported individual DEP-05/06/10 checklist outcomes remain unverified. Do not assert they passed without new evidence.
 
 **Scope boundary:** No robust dirty-state workflow, optional current-year context, historical inputs, Plotly chart, scenario simulator, synthetic loader or report feature was added in Slice 4.
 
-**Gate assessment:** **NOT YET COMPLETE**. Local automated checks pass, but the build plan explicitly requires GitHub publication and a successful independently opening public app. Do not mark Slice 4 complete until those have been observed and recorded.
+**Gate assessment: COMPLETE — explicitly approved by the owner on 12 October 2026.** Deployment and clean-browser testing satisfied the owner's acceptance of Slice 4. Do not begin Slice 5 until separately authorised.
 
 ## Local source checkpoint
 
 Prepared source was committed in the assistant's **isolated local Git repository**
 for traceability: `357341d34ea279b58865c72a62b9c2393b14cc85`. This is **not** an existing project Mac/GitHub
-history, a GitHub push, or the Cloud's deployed commit. The owner's published
-GitHub commit will have its own hash and must be recorded separately.
+history, a GitHub push, or the Cloud's deployed commit. The owner's original deployed GitHub commit has now been recorded and independently located: `6db7fb06fb75445092cbf87d02c4c449c2aac324`.
 
 **Resolved documentation-only incident:** A shell quoting mistake occurred while
 inserting the local commit hash in this log. It affected only the text of the
