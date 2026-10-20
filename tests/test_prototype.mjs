@@ -24,7 +24,7 @@ test('production CSV parser handles quotes, commas and escaped quotes',()=>{
   assert.equal(parseCSV('a,b\n"hello,world","say ""hi"""\n')[1][1],'say "hi"');
 });
 test('provided sample CSV is valid and contains 1200 records and correct headers',()=>{
- assert.deepEqual([...COLS],raw[0]);assert.deepEqual([...accepted.fatal],[]);assert.equal(rows.length,1200);
+ assert.deepEqual([...COLS],[...raw[0]]);assert.deepEqual([...accepted.fatal],[]);assert.equal(rows.length,1200);
 });
 test('annual total remuneration: top/bottom 5%, ratio',()=>{
  const v=analyse(rows);assert.equal(v.n5,60);approx(v.ratio,26.318409809088365);
@@ -48,9 +48,6 @@ test('scenario baseline unchanged, non-zero scenario finite and baseline protect
  approx(app.stats.ratio,26.318409809088365);app.bottom=0;app.top=0;
 });
 test('bad CSV inputs blocked by production validate',()=>{
- const variants=[
-  [[...raw[0].slice(0,-1),...raw.slice(0,0)],'none'], // placeholder not evaluated
- ];
  const rejected=(edit,fragment)=>{const arr=raw.map(r=>[...r]);edit(arr);assert.ok(validate(arr).fatal.some(x=>x.toLowerCase().includes(fragment)),fragment)};
  rejected(a=>{a[0].pop()},'missing required columns');
  rejected(a=>{a[2]=[...a[1]]},'duplicate');
