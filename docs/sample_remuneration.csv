@@ -1,0 +1,1201 @@
+Employee_ID,Financial_Year,Job_Level,Business_Unit,Employment_Type,Annual_Guaranteed_Pay_ZAR,Employer_Benefits_ZAR,STI_ZAR,LTI_Share_Awards_ZAR,Annual_Total_Remuneration_ZAR,Monthly_Net_Earnings_ZAR
+EMP0001,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,452130,47360,26680,10750,536920,27800
+EMP0002,2026,L1 - Operational / Entry,Operations,Permanent part-time,165400,15470,0,2110,182980,11340
+EMP0003,2026,L2 - Skilled / Clerical,Operations,Permanent part-time,267770,30890,9460,8290,316410,17940
+EMP0004,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,329410,36480,15530,0,381420,21780
+EMP0005,2026,L4 - Manager,Operations,Permanent full-time,922810,122570,89220,0,1134600,54260
+EMP0006,2026,L4 - Manager,Operations,Permanent full-time,757800,103180,57470,3190,921640,44170
+EMP0007,2026,L1 - Operational / Entry,Operations,Permanent full-time,127150,14000,0,2370,143520,8330
+EMP0008,2026,L2 - Skilled / Clerical,Corporate Services,Permanent part-time,392780,43780,5170,3990,445720,24800
+EMP0009,2026,L4 - Manager,People & Culture,Permanent full-time,536490,62770,76030,1980,677270,37040
+EMP0010,2026,L1 - Operational / Entry,Finance,Permanent part-time,148510,13130,1580,930,164150,9760
+EMP0011,2026,L2 - Skilled / Clerical,Corporate Services,Fixed-term,277490,34600,16940,4970,334000,18720
+EMP0012,2026,L5 - Senior Manager,Operations,Permanent full-time,1191920,182110,180550,0,1554580,65880
+EMP0013,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1114110,164180,141100,40750,1460140,69230
+EMP0014,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,267630,21140,7950,0,296720,17200
+EMP0015,2026,L5 - Senior Manager,Operations,Permanent full-time,900150,118900,128240,37980,1185270,56150
+EMP0016,2026,L3 - Professional / Specialist,Finance,Fixed-term,368500,40670,26300,440,435910,25200
+EMP0017,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,204240,29050,1050,4670,239010,13190
+EMP0018,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,291650,30760,8450,0,330860,18790
+EMP0019,2026,L4 - Manager,Technology,Permanent full-time,638640,92500,61110,23280,815530,37980
+EMP0020,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,321340,38090,18830,2760,381020,21830
+EMP0021,2026,L4 - Manager,Sales & Customer,Fixed-term,663310,89150,70570,23530,846560,39150
+EMP0022,2026,L1 - Operational / Entry,Technology,Learner,181560,12550,0,0,194110,12580
+EMP0023,2026,L4 - Manager,People & Culture,Permanent full-time,533730,65100,41690,5800,646320,34250
+EMP0024,2026,L4 - Manager,Corporate Services,Permanent full-time,673180,84140,88580,0,845900,40800
+EMP0025,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,281900,29500,13650,0,325050,18250
+EMP0026,2026,L3 - Professional / Specialist,Corporate Services,Fixed-term,400340,44140,18650,6720,469850,24950
+EMP0027,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,295100,34590,13180,0,342870,19330
+EMP0028,2026,L4 - Manager,Sales & Customer,Permanent full-time,582380,74990,58580,24320,740270,38400
+EMP0029,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,299000,35490,11600,0,346090,19030
+EMP0030,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,286340,33660,8630,3720,332350,18070
+EMP0031,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,253690,34610,6470,0,294770,16720
+EMP0032,2026,L4 - Manager,Finance,Permanent full-time,810020,93830,69630,14970,988450,48010
+EMP0033,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,195740,18260,650,6800,221450,13160
+EMP0034,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,271360,33840,14240,90,319530,18060
+EMP0035,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,252460,23440,10730,7740,294370,16970
+EMP0036,2026,L3 - Professional / Specialist,Operations,Permanent full-time,424070,48240,42740,3690,518740,28010
+EMP0037,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,412180,50220,32800,18330,513530,25990
+EMP0038,2026,L1 - Operational / Entry,Operations,Permanent full-time,111960,12840,0,1250,126050,7820
+EMP0039,2026,L3 - Professional / Specialist,Finance,Permanent full-time,430830,53620,8340,0,492790,25370
+EMP0040,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,190940,18840,0,0,209780,12460
+EMP0041,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,194750,21350,7110,110,223320,13590
+EMP0042,2026,L3 - Professional / Specialist,Technology,Permanent full-time,443910,42130,18180,0,504220,26000
+EMP0043,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,890940,113230,113680,72910,1190760,56940
+EMP0044,2026,L6 - Executive,Executive Office,Permanent full-time,2449860,352840,419100,258200,3480000,138320
+EMP0045,2026,L1 - Operational / Entry,Operations,Permanent full-time,154600,19740,0,8120,182460,9940
+EMP0046,2026,L7 - Executive Leadership,Technology,Permanent full-time,7059430,799830,1459280,1420030,10738570,396310
+EMP0047,2026,L3 - Professional / Specialist,Technology,Permanent full-time,400170,58450,27460,0,486080,24570
+EMP0048,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,240880,24070,11320,0,276270,15750
+EMP0049,2026,L3 - Professional / Specialist,Technology,Permanent full-time,446260,47360,16620,4360,514600,27230
+EMP0050,2026,L2 - Skilled / Clerical,Finance,Permanent part-time,275820,27680,5080,2050,310630,17470
+EMP0051,2026,L1 - Operational / Entry,Operations,Learner,176990,21530,1200,0,199720,11300
+EMP0052,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,281340,29360,11870,0,322570,17910
+EMP0053,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,487020,44750,17300,2970,552040,27260
+EMP0054,2026,L4 - Manager,Operations,Permanent full-time,616050,92350,60800,3610,772810,39220
+EMP0055,2026,L1 - Operational / Entry,Technology,Permanent part-time,204300,22680,0,0,226980,13260
+EMP0056,2026,L3 - Professional / Specialist,Sales & Customer,Fixed-term,359450,39980,32550,11770,443750,25150
+EMP0057,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,132950,14330,0,0,147280,8950
+EMP0058,2026,L3 - Professional / Specialist,Technology,Fixed-term,473900,66950,22710,11380,574940,30360
+EMP0059,2026,L5 - Senior Manager,Operations,Permanent full-time,1191610,161490,131290,66260,1550650,68110
+EMP0060,2026,L1 - Operational / Entry,Operations,Permanent part-time,125020,14100,4180,4430,147730,8070
+EMP0061,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,132740,13360,2380,1180,149660,8510
+EMP0062,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,410340,47980,24900,0,483220,25000
+EMP0063,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,317740,39930,2940,3930,364540,19650
+EMP0064,2026,L4 - Manager,Technology,Permanent full-time,544390,67530,47730,22530,682180,34220
+EMP0065,2026,L1 - Operational / Entry,Operations,Fixed-term,203610,21530,530,0,225670,13600
+EMP0066,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,525990,68690,46180,2870,643730,33980
+EMP0067,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,206250,19550,2520,3390,231710,13560
+EMP0068,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,426960,49120,28540,0,504620,25730
+EMP0069,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1442250,171970,195180,21650,1831050,82700
+EMP0070,2026,L3 - Professional / Specialist,Operations,Permanent full-time,542780,74960,44460,0,662200,32910
+EMP0071,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,820610,120300,121280,0,1062190,51660
+EMP0072,2026,L5 - Senior Manager,Technology,Permanent full-time,1262390,216720,187470,63360,1729940,76640
+EMP0073,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,358250,41560,30690,0,430500,25760
+EMP0074,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,168540,15820,1570,470,186400,11180
+EMP0075,2026,L4 - Manager,Finance,Permanent full-time,573270,75240,54930,7670,711110,37440
+EMP0076,2026,L2 - Skilled / Clerical,Technology,Fixed-term,247490,23530,8780,0,279800,15700
+EMP0077,2026,L3 - Professional / Specialist,Strategy & Legal,Fixed-term,368420,51720,18130,0,438270,23600
+EMP0078,2026,L4 - Manager,Technology,Permanent full-time,747120,95890,66030,15200,924240,44580
+EMP0079,2026,L1 - Operational / Entry,Operations,Permanent part-time,196440,21480,1950,0,219870,13340
+EMP0080,2026,L6 - Executive,Strategy & Legal,Permanent full-time,2398950,291660,436220,240520,3367350,139880
+EMP0081,2026,L5 - Senior Manager,Technology,Permanent full-time,909990,131970,119220,8480,1169660,55040
+EMP0082,2026,L2 - Skilled / Clerical,Operations,Fixed-term,290550,37230,21940,0,349720,19120
+EMP0083,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,319110,27650,5270,1620,353650,20510
+EMP0084,2026,L4 - Manager,Operations,Permanent full-time,860820,136920,81230,18080,1097050,49340
+EMP0085,2026,L1 - Operational / Entry,Operations,Fixed-term,143850,14410,7530,3100,168890,10010
+EMP0086,2026,L5 - Senior Manager,Technology,Permanent full-time,996360,158180,125090,38770,1318400,60920
+EMP0087,2026,L3 - Professional / Specialist,Technology,Permanent full-time,473580,58780,35040,0,567400,29820
+EMP0088,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,340640,34680,1180,0,376500,21140
+EMP0089,2026,L4 - Manager,Finance,Permanent full-time,693940,93930,84870,23710,896450,42990
+EMP0090,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,285740,34110,10450,0,330300,18310
+EMP0091,2026,L4 - Manager,Strategy & Legal,Permanent full-time,661510,96850,53980,0,812340,38910
+EMP0092,2026,L6 - Executive,Operations,Permanent full-time,1811870,285040,237580,174310,2508800,98770
+EMP0093,2026,L4 - Manager,Operations,Permanent full-time,572650,69060,50940,990,693640,35920
+EMP0094,2026,L5 - Senior Manager,Technology,Permanent full-time,943820,152260,112180,17720,1225980,57760
+EMP0095,2026,L3 - Professional / Specialist,Operations,Fixed-term,428250,55530,19290,0,503070,26020
+EMP0096,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,208980,20940,10180,3010,243110,14250
+EMP0097,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,1129640,161120,182740,44550,1518050,70940
+EMP0098,2026,L1 - Operational / Entry,Technology,Fixed-term,173180,19550,5370,1180,199280,11460
+EMP0099,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,302910,38060,23900,0,364870,20110
+EMP0100,2026,L6 - Executive,Strategy & Legal,Permanent full-time,2391930,415810,411300,326240,3545280,131860
+EMP0101,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,188980,19290,3360,0,211630,12860
+EMP0102,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,394680,45380,17980,16940,474980,23490
+EMP0103,2026,L3 - Professional / Specialist,Operations,Permanent full-time,282310,38200,20500,5170,346180,18680
+EMP0104,2026,L4 - Manager,Technology,Permanent full-time,824120,85540,87070,0,996730,50510
+EMP0105,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,201790,23060,12280,0,237130,13550
+EMP0106,2026,L1 - Operational / Entry,Operations,Permanent full-time,161640,16140,4300,6300,188380,10690
+EMP0107,2026,L4 - Manager,Operations,Permanent full-time,692270,81390,83480,0,857140,44670
+EMP0108,2026,L4 - Manager,Finance,Permanent full-time,788850,99300,65120,1440,954710,46250
+EMP0109,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,274450,31160,5610,6170,317390,16950
+EMP0110,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,320700,40120,7020,5310,373150,21410
+EMP0111,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,334110,46160,14410,0,394680,21690
+EMP0112,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,197620,28310,2170,440,228540,13200
+EMP0113,2026,L5 - Senior Manager,Operations,Permanent full-time,962070,161910,139570,49700,1313250,59500
+EMP0114,2026,L6 - Executive,Operations,Permanent full-time,2880670,452310,545730,337970,4216680,159890
+EMP0115,2026,L1 - Operational / Entry,Sales & Customer,Learner,156680,15520,0,0,172200,9790
+EMP0116,2026,L5 - Senior Manager,Sales & Customer,Fixed-term,1394600,205890,195400,24100,1819990,78930
+EMP0117,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,293310,34970,18760,3900,350940,20600
+EMP0118,2026,L2 - Skilled / Clerical,Operations,Fixed-term,276360,24530,0,5990,306880,17410
+EMP0119,2026,L1 - Operational / Entry,Operations,Permanent full-time,129090,14060,3070,4540,150760,9060
+EMP0120,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,428670,55730,36380,7320,528100,27740
+EMP0121,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,378380,47050,16060,5770,447260,23460
+EMP0122,2026,L1 - Operational / Entry,Technology,Permanent full-time,162790,11550,5230,3540,183110,11160
+EMP0123,2026,L1 - Operational / Entry,Corporate Services,Permanent part-time,158010,15640,0,4730,178380,10740
+EMP0124,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1037750,149880,155440,550,1343620,65490
+EMP0125,2026,L4 - Manager,Sales & Customer,Permanent full-time,506330,85200,63330,5270,660130,34190
+EMP0126,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,519030,63830,25220,13620,621700,32080
+EMP0127,2026,L4 - Manager,Strategy & Legal,Permanent full-time,693610,90690,81690,32500,898490,42720
+EMP0128,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,224580,22740,3180,5390,255890,14310
+EMP0129,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,282680,40440,23850,3480,350450,19700
+EMP0130,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,271080,27170,4600,0,302850,16960
+EMP0131,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,253350,21390,720,4900,280360,15490
+EMP0132,2026,L1 - Operational / Entry,Technology,Permanent full-time,175230,20580,1900,2970,200680,12040
+EMP0133,2026,L1 - Operational / Entry,Operations,Fixed-term,133620,15480,0,0,149100,8680
+EMP0134,2026,L5 - Senior Manager,Operations,Permanent full-time,642670,86290,80970,52080,862010,38210
+EMP0135,2026,L1 - Operational / Entry,Corporate Services,Fixed-term,192130,15070,2010,0,209210,13460
+EMP0136,2026,L3 - Professional / Specialist,Operations,Permanent full-time,298340,33240,24310,230,356120,20360
+EMP0137,2026,L1 - Operational / Entry,Operations,Learner,215790,24720,1260,0,241770,14630
+EMP0138,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,351260,47320,17470,0,416050,22480
+EMP0139,2026,L4 - Manager,People & Culture,Permanent full-time,684130,88480,45280,16430,834320,40140
+EMP0140,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,307100,31790,13380,0,352270,20610
+EMP0141,2026,L7 - Executive Leadership,People & Culture,Permanent full-time,3746140,508170,803540,981020,6038870,210370
+EMP0142,2026,L4 - Manager,Operations,Permanent full-time,590190,72780,52810,0,715780,37040
+EMP0143,2026,L5 - Senior Manager,Technology,Permanent full-time,985880,123630,121980,82960,1314450,59570
+EMP0144,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,379720,34990,7750,0,422460,24670
+EMP0145,2026,L4 - Manager,Sales & Customer,Permanent full-time,595940,91110,69440,26410,782900,38290
+EMP0146,2026,L1 - Operational / Entry,Operations,Permanent full-time,142810,15670,1100,4570,164150,9620
+EMP0147,2026,L3 - Professional / Specialist,Operations,Permanent full-time,506610,68500,41590,0,616700,32510
+EMP0148,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,392750,43380,27680,0,463810,23970
+EMP0149,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1524190,200980,150120,61670,1936960,83950
+EMP0150,2026,L3 - Professional / Specialist,Operations,Permanent full-time,387640,59440,22200,1390,470670,23560
+EMP0151,2026,L1 - Operational / Entry,Corporate Services,Fixed-term,182290,11330,5630,8070,207320,12540
+EMP0152,2026,L3 - Professional / Specialist,Finance,Permanent full-time,422170,50560,26810,4310,503850,26820
+EMP0153,2026,L4 - Manager,People & Culture,Permanent full-time,898330,124360,103580,110,1126380,53250
+EMP0154,2026,L1 - Operational / Entry,Corporate Services,Fixed-term,189700,17070,0,940,207710,12470
+EMP0155,2026,L4 - Manager,Strategy & Legal,Permanent full-time,529670,59200,57020,0,645890,34410
+EMP0156,2026,L4 - Manager,Operations,Permanent full-time,665010,83620,54000,33450,836080,39200
+EMP0157,2026,L4 - Manager,Corporate Services,Permanent full-time,578100,84010,59740,8440,730290,37520
+EMP0158,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,250340,26710,4590,0,281640,15850
+EMP0159,2026,L2 - Skilled / Clerical,Operations,Fixed-term,252850,27060,5830,0,285740,16130
+EMP0160,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,291470,27540,11060,13930,344000,18240
+EMP0161,2026,L1 - Operational / Entry,Operations,Permanent full-time,179500,20620,4600,0,204720,11760
+EMP0162,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,269680,32560,8040,7610,317890,17690
+EMP0163,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,261270,30620,13310,0,305200,17200
+EMP0164,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,587640,72030,49180,0,708850,37320
+EMP0165,2026,L4 - Manager,Operations,Permanent full-time,648930,90200,43300,11500,793930,43380
+EMP0166,2026,L3 - Professional / Specialist,Technology,Permanent full-time,344060,36510,20190,0,400760,22470
+EMP0167,2026,L4 - Manager,Operations,Permanent full-time,556950,89940,66380,0,713270,36720
+EMP0168,2026,L4 - Manager,Sales & Customer,Permanent full-time,747290,111290,87240,0,945820,44590
+EMP0169,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,254690,28390,14710,5090,302880,16680
+EMP0170,2026,L1 - Operational / Entry,Technology,Permanent full-time,191660,18960,4120,2650,217390,12670
+EMP0171,2026,L1 - Operational / Entry,Operations,Permanent full-time,160410,17940,4750,7530,190630,11540
+EMP0172,2026,L5 - Senior Manager,Finance,Permanent full-time,1222180,173210,208350,39770,1643510,71430
+EMP0173,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,293800,41510,11310,0,346620,19170
+EMP0174,2026,L1 - Operational / Entry,Finance,Permanent full-time,136730,11630,2380,5590,156330,8770
+EMP0175,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,399210,55510,25430,20800,500950,23490
+EMP0176,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,267620,26480,12070,13530,319700,17840
+EMP0177,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,366370,46520,22870,0,435760,23980
+EMP0178,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,285150,35480,16200,1430,338260,19150
+EMP0179,2026,L5 - Senior Manager,Operations,Permanent full-time,1160010,163730,154000,65180,1542920,64990
+EMP0180,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,188540,23130,4180,0,215850,12680
+EMP0181,2026,L1 - Operational / Entry,Operations,Learner,175650,18400,5920,0,199970,11860
+EMP0182,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1150600,161380,134390,13970,1460340,70980
+EMP0183,2026,L6 - Executive,Executive Office,Permanent full-time,1539410,218050,268140,232820,2258420,89430
+EMP0184,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,146610,15780,2590,910,165890,10080
+EMP0185,2026,L6 - Executive,People & Culture,Permanent full-time,2256940,266160,442230,163210,3128540,130390
+EMP0186,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,261220,31620,11610,8340,312790,17110
+EMP0187,2026,L1 - Operational / Entry,Operations,Permanent full-time,149420,15830,2600,0,167850,10160
+EMP0188,2026,L1 - Operational / Entry,Technology,Permanent full-time,190670,14650,2060,2850,210230,13300
+EMP0189,2026,L6 - Executive,Technology,Permanent full-time,2603750,340470,360360,263670,3568250,139270
+EMP0190,2026,L4 - Manager,Corporate Services,Permanent full-time,639360,74310,62190,21160,797020,41250
+EMP0191,2026,L6 - Executive,Strategy & Legal,Permanent full-time,1351280,185390,309630,186030,2032330,85620
+EMP0192,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,487660,62920,42470,0,593050,28890
+EMP0193,2026,L3 - Professional / Specialist,Technology,Permanent full-time,577620,66310,14120,12140,670190,33880
+EMP0194,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,196770,26190,6100,3340,232400,13500
+EMP0195,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,469000,59240,15600,0,543840,29000
+EMP0196,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1252990,178390,182470,9450,1623300,74050
+EMP0197,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,339470,39790,6720,0,385980,22040
+EMP0198,2026,L4 - Manager,Technology,Permanent full-time,750420,94340,70570,0,915330,42830
+EMP0199,2026,L1 - Operational / Entry,Sales & Customer,Permanent part-time,133960,11720,3290,2300,151270,8940
+EMP0200,2026,L3 - Professional / Specialist,Finance,Permanent full-time,588390,84720,31960,0,705070,36340
+EMP0201,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,276550,34460,5070,0,316080,17780
+EMP0202,2026,L4 - Manager,Strategy & Legal,Permanent full-time,528720,65320,38410,15290,647740,34000
+EMP0203,2026,L1 - Operational / Entry,Operations,Permanent full-time,163350,19710,1500,0,184560,10620
+EMP0204,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,265350,29590,5120,0,300060,17090
+EMP0205,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,192020,23820,10600,70,226510,13970
+EMP0206,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,217270,26270,7900,1360,252800,13810
+EMP0207,2026,L4 - Manager,Strategy & Legal,Permanent full-time,736240,82410,66160,11640,896450,42560
+EMP0208,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,555040,72130,24620,24800,676590,34120
+EMP0209,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,287920,27280,5170,0,320370,18530
+EMP0210,2026,L2 - Skilled / Clerical,Corporate Services,Permanent part-time,268780,31020,6160,0,305960,16940
+EMP0211,2026,L3 - Professional / Specialist,Technology,Fixed-term,560570,71300,26110,0,657980,34780
+EMP0212,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,405030,53010,21180,0,479220,24790
+EMP0213,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,264140,25870,8130,9340,307480,17470
+EMP0214,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1257020,154070,175160,14620,1600870,70800
+EMP0215,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,388210,43780,980,0,432970,23810
+EMP0216,2026,L4 - Manager,Corporate Services,Permanent full-time,687300,84540,55750,16480,844070,38870
+EMP0217,2026,L6 - Executive,Executive Office,Permanent full-time,2329960,345570,444120,285160,3404810,131840
+EMP0218,2026,L4 - Manager,Finance,Permanent full-time,743720,95300,67400,18250,924670,44520
+EMP0219,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,270560,23290,3790,1710,299350,16890
+EMP0220,2026,L4 - Manager,Finance,Permanent full-time,907520,97300,94190,23390,1122400,55430
+EMP0221,2026,L1 - Operational / Entry,Operations,Permanent full-time,131680,11460,1950,5920,151010,8610
+EMP0222,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,258690,30520,9670,240,299120,17130
+EMP0223,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,256910,33690,13250,0,303850,17500
+EMP0224,2026,L1 - Operational / Entry,Operations,Permanent full-time,224030,15010,0,0,239040,15590
+EMP0225,2026,L3 - Professional / Specialist,Technology,Permanent full-time,505170,67110,39380,30240,641900,32380
+EMP0226,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,950270,133500,164300,42470,1290540,58630
+EMP0227,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,500350,65160,23890,1490,590890,31390
+EMP0228,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,169620,12140,960,0,182720,11530
+EMP0229,2026,L3 - Professional / Specialist,Technology,Permanent full-time,360580,41320,15440,21780,439120,22970
+EMP0230,2026,L4 - Manager,People & Culture,Permanent full-time,916690,106980,102620,31010,1157300,54960
+EMP0231,2026,L6 - Executive,Technology,Permanent full-time,1975000,242320,276940,257320,2751580,115290
+EMP0232,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,301880,38690,5810,0,346380,19790
+EMP0233,2026,L3 - Professional / Specialist,Technology,Permanent full-time,456910,49020,32310,14050,552290,28160
+EMP0234,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,975760,149950,129240,59870,1314820,59060
+EMP0235,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,204260,22390,9150,0,235800,14230
+EMP0236,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,473810,60780,20810,0,555400,29710
+EMP0237,2026,L3 - Professional / Specialist,Technology,Permanent full-time,345340,42610,23720,2100,413770,24190
+EMP0238,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,156210,20080,0,4710,181000,10230
+EMP0239,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,400980,53530,20880,0,475390,25220
+EMP0240,2026,L4 - Manager,Corporate Services,Permanent full-time,666430,89060,60060,5680,821230,38770
+EMP0241,2026,L4 - Manager,Strategy & Legal,Permanent full-time,775020,110070,60370,0,945460,44580
+EMP0242,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1255760,166340,191360,62040,1675500,70860
+EMP0243,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,232960,29580,13130,4410,280080,14460
+EMP0244,2026,L4 - Manager,Strategy & Legal,Permanent full-time,696310,96580,78370,23690,894950,42230
+EMP0245,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,177980,11540,1740,5180,196440,12030
+EMP0246,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,248840,24110,9300,3630,285880,16110
+EMP0247,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,346400,38250,30650,1150,416450,24000
+EMP0248,2026,L4 - Manager,Corporate Services,Permanent full-time,468810,57890,39490,27530,593720,29020
+EMP0249,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,473490,53660,20480,0,547630,28000
+EMP0250,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,353540,38200,22290,0,414030,24370
+EMP0251,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1379070,219070,192500,30770,1821410,79400
+EMP0252,2026,L5 - Senior Manager,Finance,Permanent full-time,1429460,219760,198630,44170,1892020,85910
+EMP0253,2026,L4 - Manager,Technology,Permanent full-time,627830,75320,56960,5820,765930,40310
+EMP0254,2026,L3 - Professional / Specialist,Technology,Permanent full-time,289570,35480,18220,0,343270,18160
+EMP0255,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,423600,66470,21880,0,511950,26320
+EMP0256,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,156460,19250,0,0,175710,9870
+EMP0257,2026,L3 - Professional / Specialist,Operations,Permanent full-time,409760,61530,16570,20040,507900,25250
+EMP0258,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,231360,21980,12240,4130,269710,14640
+EMP0259,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1000650,146900,167040,18260,1332850,64450
+EMP0260,2026,L6 - Executive,Executive Office,Permanent full-time,1961940,268520,211380,289500,2731340,103810
+EMP0261,2026,L1 - Operational / Entry,Operations,Permanent full-time,221970,19000,2920,2560,246450,14570
+EMP0262,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,296350,34360,10940,0,341650,19700
+EMP0263,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,245790,31390,15450,4960,297590,17100
+EMP0264,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,494320,45760,38690,0,578770,30960
+EMP0265,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,447410,56150,30780,0,534340,27100
+EMP0266,2026,L3 - Professional / Specialist,Finance,Permanent full-time,287420,35520,19400,4250,346590,19960
+EMP0267,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,568330,75330,43600,0,687260,35820
+EMP0268,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,380150,44790,14120,8730,447790,25560
+EMP0269,2026,L7 - Executive Leadership,Strategy & Legal,Permanent full-time,2202070,288720,515900,392570,3399260,129380
+EMP0270,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,576130,61390,23540,0,661060,37190
+EMP0271,2026,L1 - Operational / Entry,Operations,Permanent full-time,115780,12250,3010,0,131040,8050
+EMP0272,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,273460,22160,6940,5010,307570,16870
+EMP0273,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,318380,36900,1350,0,356630,21610
+EMP0274,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,285260,32360,13530,8060,339210,18360
+EMP0275,2026,L3 - Professional / Specialist,Technology,Permanent full-time,366020,44360,23820,0,434200,24450
+EMP0276,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,255770,29080,7400,0,292250,16240
+EMP0277,2026,L4 - Manager,Corporate Services,Permanent full-time,709680,95290,65190,24150,894310,43050
+EMP0278,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,268310,28620,7530,13670,318130,17330
+EMP0279,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,304080,30850,8240,830,344000,19840
+EMP0280,2026,L4 - Manager,Operations,Permanent full-time,842710,115000,62980,10670,1031360,48070
+EMP0281,2026,L2 - Skilled / Clerical,Operations,Permanent part-time,261180,29080,8930,5440,304630,17080
+EMP0282,2026,L3 - Professional / Specialist,Finance,Permanent full-time,451360,52290,26790,9340,539780,27840
+EMP0283,2026,L2 - Skilled / Clerical,Technology,Fixed-term,207100,18980,0,3500,229580,14150
+EMP0284,2026,L5 - Senior Manager,Technology,Permanent full-time,1252030,173740,177400,67750,1670920,75040
+EMP0285,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1517130,239760,248810,0,2005700,89100
+EMP0286,2026,L5 - Senior Manager,Finance,Permanent full-time,1582340,265290,184750,0,2032380,92390
+EMP0287,2026,L4 - Manager,Technology,Permanent full-time,663880,78500,78420,38970,859770,39460
+EMP0288,2026,L3 - Professional / Specialist,Technology,Permanent full-time,508660,64680,30680,0,604020,32550
+EMP0289,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,269890,26800,3870,0,300560,17560
+EMP0290,2026,L3 - Professional / Specialist,People & Culture,Permanent part-time,569130,70570,35420,0,675120,35520
+EMP0291,2026,L4 - Manager,Operations,Permanent full-time,724660,102300,94790,33880,955630,45190
+EMP0292,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1415960,229930,158270,27670,1831830,84600
+EMP0293,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,157840,17940,2660,510,178950,10330
+EMP0294,2026,L3 - Professional / Specialist,Technology,Permanent full-time,307400,33530,24350,10360,375640,20530
+EMP0295,2026,L1 - Operational / Entry,Sales & Customer,Learner,221490,15140,0,0,236630,14870
+EMP0296,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,295320,31720,7500,3110,337650,18950
+EMP0297,2026,L3 - Professional / Specialist,Technology,Permanent full-time,446570,64050,34320,1850,546790,27970
+EMP0298,2026,L1 - Operational / Entry,People & Culture,Permanent full-time,195020,19750,2800,0,217570,12460
+EMP0299,2026,L1 - Operational / Entry,Operations,Permanent full-time,114520,11330,0,0,125850,7650
+EMP0300,2026,L3 - Professional / Specialist,Technology,Permanent full-time,448010,46800,18800,0,513610,27000
+EMP0301,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,137460,18120,2050,670,158300,9260
+EMP0302,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,342820,48080,6010,4820,401730,22340
+EMP0303,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,236760,25190,6700,0,268650,15200
+EMP0304,2026,L6 - Executive,Corporate Services,Permanent full-time,1050560,141890,173500,138400,1504350,62050
+EMP0305,2026,L3 - Professional / Specialist,Technology,Permanent full-time,566370,70420,25370,24900,687060,35170
+EMP0306,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,603840,68470,48080,16530,736920,37280
+EMP0307,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,149020,15370,2590,880,167860,10040
+EMP0308,2026,L3 - Professional / Specialist,Operations,Permanent full-time,345280,33620,22350,0,401250,23670
+EMP0309,2026,L2 - Skilled / Clerical,Finance,Fixed-term,311020,34900,15230,4340,365490,20230
+EMP0310,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,177340,16470,7770,0,201580,12730
+EMP0311,2026,L2 - Skilled / Clerical,Finance,Fixed-term,270290,34280,9140,1480,315190,17750
+EMP0312,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1288900,180330,210310,30160,1709700,78260
+EMP0313,2026,L4 - Manager,Operations,Permanent full-time,668510,86150,76380,10850,841890,42770
+EMP0314,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,409380,47360,17400,0,474140,25860
+EMP0315,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,310890,26850,3670,540,341950,19460
+EMP0316,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,393860,51200,34550,11360,490970,24580
+EMP0317,2026,L4 - Manager,Sales & Customer,Permanent full-time,1003710,134080,132190,35270,1305250,60950
+EMP0318,2026,L1 - Operational / Entry,Corporate Services,Permanent part-time,208100,20890,3300,0,232290,14140
+EMP0319,2026,L1 - Operational / Entry,Finance,Permanent full-time,168840,18540,5820,0,193200,11240
+EMP0320,2026,L1 - Operational / Entry,Operations,Permanent full-time,142630,12560,780,0,155970,9480
+EMP0321,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,381870,32840,15340,0,430050,24140
+EMP0322,2026,L6 - Executive,Sales & Customer,Permanent full-time,1109620,143540,240460,173720,1667340,69270
+EMP0323,2026,L1 - Operational / Entry,People & Culture,Permanent full-time,149660,13110,0,490,163260,10040
+EMP0324,2026,L3 - Professional / Specialist,Technology,Permanent full-time,515590,57720,22150,0,595460,30110
+EMP0325,2026,L3 - Professional / Specialist,Technology,Permanent full-time,445280,59840,26430,0,531550,27130
+EMP0326,2026,L4 - Manager,Finance,Permanent full-time,606630,77030,61050,31550,776260,38850
+EMP0327,2026,L1 - Operational / Entry,Finance,Permanent full-time,114100,14010,0,1370,129480,7420
+EMP0328,2026,L1 - Operational / Entry,Operations,Permanent full-time,179320,18390,0,4170,201880,12130
+EMP0329,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,242110,29530,11330,0,282970,15860
+EMP0330,2026,L2 - Skilled / Clerical,Corporate Services,Permanent part-time,239930,26280,8810,0,275020,15410
+EMP0331,2026,L4 - Manager,Finance,Permanent full-time,705570,81690,53320,12340,852920,40450
+EMP0332,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,196590,23450,3570,0,223610,13650
+EMP0333,2026,L1 - Operational / Entry,Operations,Permanent full-time,154250,19280,2050,1810,177390,10060
+EMP0334,2026,L3 - Professional / Specialist,Technology,Permanent full-time,344660,35290,18680,0,398630,23670
+EMP0335,2026,L1 - Operational / Entry,Operations,Permanent full-time,121400,15140,0,0,136540,8080
+EMP0336,2026,L1 - Operational / Entry,Operations,Permanent full-time,145080,17150,3280,3940,169450,9840
+EMP0337,2026,L1 - Operational / Entry,Operations,Permanent full-time,134600,14900,2310,0,151810,9000
+EMP0338,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,301990,28040,9270,7140,346440,18630
+EMP0339,2026,L4 - Manager,Technology,Permanent full-time,713100,68700,59250,5380,846430,38970
+EMP0340,2026,L4 - Manager,Operations,Permanent full-time,752050,100660,55560,6980,915250,44160
+EMP0341,2026,L1 - Operational / Entry,Operations,Permanent full-time,156050,14790,1850,650,173340,10420
+EMP0342,2026,L1 - Operational / Entry,Technology,Permanent full-time,160460,12540,910,0,173910,10510
+EMP0343,2026,L6 - Executive,Finance,Fixed-term,2206500,294680,434320,266130,3201630,121260
+EMP0344,2026,L2 - Skilled / Clerical,Operations,Permanent part-time,274060,34900,2120,0,311080,17430
+EMP0345,2026,L3 - Professional / Specialist,Finance,Permanent full-time,541830,56630,23040,0,621500,32680
+EMP0346,2026,L1 - Operational / Entry,Operations,Permanent full-time,124230,8830,2780,230,136070,8340
+EMP0347,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,409540,43800,15250,5620,474210,25670
+EMP0348,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,332190,35370,4290,0,371850,20900
+EMP0349,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,339850,32190,12150,0,384190,21860
+EMP0350,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1046440,139920,153630,15200,1355190,65160
+EMP0351,2026,L4 - Manager,Operations,Permanent full-time,648270,82170,73570,0,804010,38800
+EMP0352,2026,L1 - Operational / Entry,Operations,Permanent part-time,196080,21040,7190,5340,229650,14090
+EMP0353,2026,L3 - Professional / Specialist,Finance,Permanent full-time,288100,36280,17060,0,341440,19020
+EMP0354,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,297370,31510,9560,0,338440,18520
+EMP0355,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,253860,29460,4830,1750,289900,15510
+EMP0356,2026,L3 - Professional / Specialist,Technology,Permanent full-time,575830,71140,40790,5760,693520,36430
+EMP0357,2026,L4 - Manager,Finance,Permanent full-time,857430,96260,96500,23100,1073290,49980
+EMP0358,2026,L3 - Professional / Specialist,Operations,Permanent full-time,412170,57100,20020,15480,504770,25510
+EMP0359,2026,L4 - Manager,Technology,Permanent full-time,695090,92630,69220,26450,883390,41670
+EMP0360,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,530440,60090,47820,4000,642350,34060
+EMP0361,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,223570,21070,3340,2170,250150,14210
+EMP0362,2026,L2 - Skilled / Clerical,Strategy & Legal,Fixed-term,178500,14220,9650,1440,203810,12470
+EMP0363,2026,L1 - Operational / Entry,Operations,Fixed-term,153500,15990,3780,3630,176900,10350
+EMP0364,2026,L4 - Manager,Finance,Permanent full-time,766120,105570,70740,0,942430,44180
+EMP0365,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,367470,51900,9620,0,428990,22740
+EMP0366,2026,L4 - Manager,Corporate Services,Permanent full-time,712610,81110,56660,6160,856540,42510
+EMP0367,2026,L4 - Manager,Finance,Permanent full-time,600020,89750,52280,16820,758870,38210
+EMP0368,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1241290,178980,183410,38290,1641970,70530
+EMP0369,2026,L7 - Executive Leadership,Strategy & Legal,Permanent full-time,3294490,521280,661450,859850,5337070,194450
+EMP0370,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,557570,80530,13100,17400,668600,32180
+EMP0371,2026,L2 - Skilled / Clerical,Corporate Services,Fixed-term,240370,28520,13900,0,282790,15650
+EMP0372,2026,L7 - Executive Leadership,Executive Office,Permanent full-time,8736480,1231750,1794160,1898640,13661030,493120
+EMP0373,2026,L5 - Senior Manager,Strategy & Legal,Fixed-term,975420,122610,156210,68270,1322510,62000
+EMP0374,2026,L4 - Manager,Operations,Permanent full-time,822690,84350,70760,0,977800,46480
+EMP0375,2026,L2 - Skilled / Clerical,Technology,Fixed-term,307370,35230,0,0,342600,19620
+EMP0376,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,522200,65230,32750,4650,624830,33420
+EMP0377,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1155190,171780,165440,0,1492410,73610
+EMP0378,2026,L5 - Senior Manager,Operations,Fixed-term,1034640,174460,156700,31020,1396820,66190
+EMP0379,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,124730,10810,990,0,136530,7950
+EMP0380,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,305340,30920,21430,0,357690,20410
+EMP0381,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,395230,53960,27950,6920,484060,24950
+EMP0382,2026,L4 - Manager,Operations,Permanent full-time,573990,64910,69700,6940,715540,37020
+EMP0383,2026,L3 - Professional / Specialist,Technology,Permanent full-time,392310,59780,1800,0,453890,22820
+EMP0384,2026,L5 - Senior Manager,Technology,Permanent full-time,1075080,171660,167580,11290,1425610,68650
+EMP0385,2026,L1 - Operational / Entry,Operations,Permanent full-time,212080,19120,0,0,231200,13500
+EMP0386,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,342280,42440,14290,1130,400140,22250
+EMP0387,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,319550,45030,18240,4650,387470,20540
+EMP0388,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,289660,34150,11420,1000,336230,18110
+EMP0389,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,202280,24100,5340,0,231720,13980
+EMP0390,2026,L4 - Manager,Operations,Permanent full-time,868810,111710,87470,3110,1071100,50230
+EMP0391,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,173560,17680,3360,950,195550,11760
+EMP0392,2026,L4 - Manager,Corporate Services,Permanent full-time,564570,72990,59830,23750,721140,35750
+EMP0393,2026,L4 - Manager,Corporate Services,Permanent full-time,692440,86840,57590,0,836870,39320
+EMP0394,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,261260,33090,230,9530,304110,16040
+EMP0395,2026,L1 - Operational / Entry,Strategy & Legal,Fixed-term,183330,17680,2300,5940,209250,11950
+EMP0396,2026,L2 - Skilled / Clerical,Operations,Fixed-term,270530,37230,17110,0,324870,18310
+EMP0397,2026,L3 - Professional / Specialist,Finance,Permanent full-time,566570,67530,29670,13980,677750,34640
+EMP0398,2026,L2 - Skilled / Clerical,Finance,Fixed-term,222480,20920,1920,0,245320,15050
+EMP0399,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,353450,32760,28710,11500,426420,23940
+EMP0400,2026,L4 - Manager,Technology,Permanent full-time,518770,72890,49190,0,640850,35070
+EMP0401,2026,L3 - Professional / Specialist,Operations,Permanent full-time,529470,61040,38470,0,628980,33260
+EMP0402,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1158130,160840,132160,27460,1478590,67850
+EMP0403,2026,L3 - Professional / Specialist,Technology,Permanent full-time,314170,44760,18990,960,378880,21320
+EMP0404,2026,L3 - Professional / Specialist,Finance,Permanent full-time,353530,43580,25660,5380,428150,23650
+EMP0405,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1561280,193190,235940,42000,2032410,90110
+EMP0406,2026,L6 - Executive,Corporate Services,Permanent full-time,2120030,294020,418360,246270,3078680,121110
+EMP0407,2026,L3 - Professional / Specialist,Finance,Permanent full-time,389440,45300,21920,7120,463780,23880
+EMP0408,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,376660,41040,19140,0,436840,24770
+EMP0409,2026,L4 - Manager,Sales & Customer,Permanent full-time,647940,93960,66520,0,808420,37950
+EMP0410,2026,L2 - Skilled / Clerical,Technology,Fixed-term,227170,25990,2930,0,256090,14750
+EMP0411,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,232620,17960,10060,0,260640,14970
+EMP0412,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1043860,124610,183630,9150,1361250,68400
+EMP0413,2026,L3 - Professional / Specialist,Technology,Permanent full-time,625070,80390,46060,0,751520,38620
+EMP0414,2026,L4 - Manager,Operations,Permanent full-time,615870,90490,61400,0,767760,37770
+EMP0415,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,374580,41270,2220,0,418070,23040
+EMP0416,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,204890,22630,5700,6010,239230,13860
+EMP0417,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,303820,35010,13470,6470,358770,20130
+EMP0418,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,438940,59360,22660,0,520960,26360
+EMP0419,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,774330,102400,115530,34910,1027170,48180
+EMP0420,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,445790,43220,23720,9930,522660,28980
+EMP0421,2026,L4 - Manager,Finance,Permanent full-time,643140,69770,50360,0,763270,40700
+EMP0422,2026,L3 - Professional / Specialist,Finance,Permanent full-time,402160,50650,5510,4490,462810,23890
+EMP0423,2026,L3 - Professional / Specialist,Finance,Permanent full-time,469030,52780,31220,7550,560580,28490
+EMP0424,2026,L2 - Skilled / Clerical,Corporate Services,Permanent part-time,258400,27670,4000,1890,291960,16150
+EMP0425,2026,L2 - Skilled / Clerical,Sales & Customer,Fixed-term,245240,27180,13170,5060,290650,15820
+EMP0426,2026,L1 - Operational / Entry,Operations,Permanent full-time,189680,17300,6960,0,213940,12980
+EMP0427,2026,L1 - Operational / Entry,Technology,Permanent full-time,220570,27730,7810,0,256110,14010
+EMP0428,2026,L3 - Professional / Specialist,Operations,Permanent full-time,402390,52170,26620,8090,489270,25070
+EMP0429,2026,L1 - Operational / Entry,Operations,Permanent full-time,223690,29610,0,7570,260870,13780
+EMP0430,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,249160,25280,3390,700,278530,16150
+EMP0431,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,115120,10700,4750,0,130570,7900
+EMP0432,2026,L1 - Operational / Entry,Corporate Services,Fixed-term,165000,19190,5880,2860,192930,11500
+EMP0433,2026,L3 - Professional / Specialist,Finance,Permanent full-time,611080,86820,57190,11680,766770,39350
+EMP0434,2026,L1 - Operational / Entry,Operations,Permanent full-time,221120,24160,420,5810,251510,13950
+EMP0435,2026,L1 - Operational / Entry,Finance,Permanent full-time,167540,16680,0,0,184220,10740
+EMP0436,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,268400,28010,16000,6080,318490,17970
+EMP0437,2026,L4 - Manager,Strategy & Legal,Permanent full-time,825490,108930,114810,23550,1072780,50840
+EMP0438,2026,L7 - Executive Leadership,Operations,Permanent full-time,3728710,484250,711980,767090,5692030,202720
+EMP0439,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1190290,146030,199350,18890,1554560,71400
+EMP0440,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,323830,36500,15920,0,376250,20660
+EMP0441,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,282440,20990,10730,4580,318740,18040
+EMP0442,2026,L1 - Operational / Entry,Operations,Permanent full-time,180460,15310,5300,5580,206650,11890
+EMP0443,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,304420,40630,12560,4420,362030,19920
+EMP0444,2026,L1 - Operational / Entry,Finance,Permanent full-time,132190,11020,2690,0,145900,9280
+EMP0445,2026,L4 - Manager,Technology,Permanent full-time,604660,86420,79820,23080,793980,40380
+EMP0446,2026,L1 - Operational / Entry,Operations,Permanent full-time,198750,20620,4530,0,223900,13600
+EMP0447,2026,L1 - Operational / Entry,Operations,Fixed-term,172640,16950,4310,0,193900,11160
+EMP0448,2026,L4 - Manager,Sales & Customer,Permanent full-time,555560,74170,40690,12120,682540,34840
+EMP0449,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,215820,17020,3520,950,237310,14350
+EMP0450,2026,L1 - Operational / Entry,Operations,Permanent full-time,147490,14700,4970,0,167160,9890
+EMP0451,2026,L4 - Manager,Sales & Customer,Permanent full-time,453080,65220,48690,29830,596820,29760
+EMP0452,2026,L4 - Manager,Technology,Permanent full-time,1089940,122770,135620,85370,1433700,64130
+EMP0453,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,235050,25950,7280,820,269100,14290
+EMP0454,2026,L2 - Skilled / Clerical,People & Culture,Permanent part-time,225280,20110,9360,8980,263730,14590
+EMP0455,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,405700,50650,16320,0,472670,23850
+EMP0456,2026,L4 - Manager,Sales & Customer,Permanent full-time,620230,95200,74280,5000,794710,39630
+EMP0457,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,234820,28840,8460,11650,283770,15160
+EMP0458,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,373180,38960,8290,0,420430,23850
+EMP0459,2026,L3 - Professional / Specialist,Corporate Services,Fixed-term,350130,41680,27120,18340,437270,23830
+EMP0460,2026,L4 - Manager,Corporate Services,Permanent full-time,685790,92690,70680,0,849160,40500
+EMP0461,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,246650,24260,12300,240,283450,16640
+EMP0462,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1381890,242560,162040,0,1786490,77740
+EMP0463,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,214380,24890,3740,0,243010,14150
+EMP0464,2026,L3 - Professional / Specialist,Technology,Permanent full-time,395140,52360,22480,12830,482810,25700
+EMP0465,2026,L4 - Manager,Strategy & Legal,Permanent full-time,745440,92400,53210,34840,925890,43390
+EMP0466,2026,L4 - Manager,Strategy & Legal,Permanent full-time,574250,78790,32590,0,685630,35800
+EMP0467,2026,L1 - Operational / Entry,Operations,Learner,194780,19450,6280,0,220510,13470
+EMP0468,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,287230,32660,3130,9300,332320,18740
+EMP0469,2026,L4 - Manager,Technology,Permanent full-time,682500,89570,75910,0,847980,40560
+EMP0470,2026,L5 - Senior Manager,Operations,Permanent full-time,878870,143270,109870,59740,1191750,56460
+EMP0471,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,177830,21680,3920,8430,211860,11460
+EMP0472,2026,L4 - Manager,Strategy & Legal,Permanent full-time,707820,104870,62750,13920,889360,42730
+EMP0473,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,226790,29620,7480,11770,275660,14750
+EMP0474,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,291190,30300,0,0,321490,17610
+EMP0475,2026,L3 - Professional / Specialist,Finance,Permanent full-time,376920,42360,46210,0,465490,24990
+EMP0476,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,377140,45390,12650,6210,441390,24210
+EMP0477,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,316170,33020,11670,0,360860,20930
+EMP0478,2026,L1 - Operational / Entry,Corporate Services,Learner,169790,15680,2770,50,188290,11650
+EMP0479,2026,L1 - Operational / Entry,Operations,Permanent full-time,121800,9850,2850,1460,135960,8600
+EMP0480,2026,L3 - Professional / Specialist,Finance,Permanent full-time,444970,52860,33860,0,531690,28790
+EMP0481,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,232580,23880,9530,0,265990,15220
+EMP0482,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,543420,70380,16950,0,630750,32640
+EMP0483,2026,L3 - Professional / Specialist,Finance,Permanent full-time,420240,50210,36890,0,507340,25470
+EMP0484,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,247600,25540,9140,0,282280,15250
+EMP0485,2026,L1 - Operational / Entry,Operations,Permanent full-time,203250,22660,290,0,226200,13060
+EMP0486,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,1420430,230430,170080,800,1821740,78800
+EMP0487,2026,L4 - Manager,Finance,Permanent full-time,490840,70860,36620,0,598320,31470
+EMP0488,2026,L4 - Manager,Technology,Permanent full-time,613100,105720,58860,7830,785510,38560
+EMP0489,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,338410,46300,22980,9040,416730,22430
+EMP0490,2026,L2 - Skilled / Clerical,Technology,Fixed-term,311210,42600,6120,0,359930,19730
+EMP0491,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,295150,35230,1630,8700,340710,18840
+EMP0492,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,167630,17200,0,0,184830,10420
+EMP0493,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1068620,135780,162690,0,1367090,67550
+EMP0494,2026,L6 - Executive,Strategy & Legal,Permanent full-time,2011390,267930,330470,151900,2761690,114200
+EMP0495,2026,L4 - Manager,Operations,Permanent full-time,535560,58400,45890,11650,651500,34720
+EMP0496,2026,L3 - Professional / Specialist,Finance,Permanent full-time,398990,49110,27010,17950,493060,26380
+EMP0497,2026,L3 - Professional / Specialist,Finance,Permanent full-time,350040,41560,17960,0,409560,22840
+EMP0498,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,174790,20530,1170,0,196490,11320
+EMP0499,2026,L3 - Professional / Specialist,Sales & Customer,Permanent part-time,554110,66010,25110,50,645280,34320
+EMP0500,2026,L3 - Professional / Specialist,Operations,Permanent full-time,245620,39280,17770,0,302670,16360
+EMP0501,2026,L1 - Operational / Entry,Operations,Permanent full-time,221330,19580,2400,660,243970,15020
+EMP0502,2026,L1 - Operational / Entry,Operations,Permanent full-time,139000,10810,3960,980,154750,9280
+EMP0503,2026,L3 - Professional / Specialist,Technology,Permanent full-time,449870,50950,19740,5720,526280,26040
+EMP0504,2026,L1 - Operational / Entry,Operations,Permanent full-time,152860,14080,2930,0,169870,9810
+EMP0505,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,370330,44030,3620,9830,427810,22690
+EMP0506,2026,L3 - Professional / Specialist,Operations,Permanent full-time,362880,47400,14590,8750,433620,23120
+EMP0507,2026,L3 - Professional / Specialist,Operations,Permanent full-time,324910,40320,10690,6610,382530,20710
+EMP0508,2026,L2 - Skilled / Clerical,Finance,Fixed-term,224230,27310,6370,0,257910,14380
+EMP0509,2026,L6 - Executive,Strategy & Legal,Permanent full-time,3048820,451770,592050,376370,4469010,171900
+EMP0510,2026,L4 - Manager,Operations,Permanent full-time,889990,106040,82600,33970,1112600,51190
+EMP0511,2026,L3 - Professional / Specialist,Finance,Permanent full-time,493450,52570,24870,19400,590290,31760
+EMP0512,2026,L3 - Professional / Specialist,Operations,Permanent full-time,433940,50320,17600,0,501860,27150
+EMP0513,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,439110,45200,23820,0,508130,26990
+EMP0514,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,228260,16760,11960,0,256980,15450
+EMP0515,2026,L1 - Operational / Entry,Strategy & Legal,Permanent full-time,174630,17650,1260,0,193540,11230
+EMP0516,2026,L2 - Skilled / Clerical,Operations,Permanent part-time,236590,26370,12170,1430,276560,15990
+EMP0517,2026,L5 - Senior Manager,Operations,Permanent full-time,937700,111260,106280,42030,1197270,53930
+EMP0518,2026,L3 - Professional / Specialist,Technology,Permanent full-time,305570,35700,15430,10640,367340,20490
+EMP0519,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,513270,58700,37340,0,609310,31810
+EMP0520,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,281420,29530,19360,0,330310,18490
+EMP0521,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,712460,90530,119270,0,922260,44110
+EMP0522,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,552520,53260,26040,8810,640630,33970
+EMP0523,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,309580,34690,9600,9130,363000,19130
+EMP0524,2026,L1 - Operational / Entry,Finance,Learner,182860,16670,0,0,199530,11600
+EMP0525,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,435310,50380,21620,0,507310,26480
+EMP0526,2026,L4 - Manager,People & Culture,Permanent full-time,874720,114260,93220,0,1082200,52550
+EMP0527,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,194890,24070,6010,5860,230830,13800
+EMP0528,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,221610,24760,15900,2590,264860,14150
+EMP0529,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,230050,15590,10210,0,255850,15010
+EMP0530,2026,L3 - Professional / Specialist,Operations,Permanent full-time,334340,46850,29240,13680,424110,23070
+EMP0531,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,609310,74370,20180,0,703860,36670
+EMP0532,2026,L3 - Professional / Specialist,Technology,Permanent full-time,338650,43170,20670,0,402490,22800
+EMP0533,2026,L2 - Skilled / Clerical,People & Culture,Fixed-term,379770,52140,15140,0,447050,24440
+EMP0534,2026,L4 - Manager,Operations,Permanent full-time,935260,90010,98270,0,1123540,54440
+EMP0535,2026,L3 - Professional / Specialist,Operations,Permanent full-time,372220,37620,20040,0,429880,24130
+EMP0536,2026,L5 - Senior Manager,Technology,Permanent full-time,735810,115090,91980,25210,968090,44710
+EMP0537,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,567170,64920,27030,0,659120,36330
+EMP0538,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,417860,57580,23550,0,498990,26070
+EMP0539,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,506480,75490,14230,0,596200,28560
+EMP0540,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,301030,34530,8400,0,343960,19750
+EMP0541,2026,L6 - Executive,Finance,Permanent full-time,2099840,319720,403170,252140,3074870,121520
+EMP0542,2026,L1 - Operational / Entry,Operations,Permanent full-time,145200,15490,0,3350,164040,9790
+EMP0543,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,216760,21870,0,0,238630,14290
+EMP0544,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,544920,59990,33260,11580,649750,33380
+EMP0545,2026,L4 - Manager,Technology,Permanent full-time,695990,93390,83030,550,872960,42260
+EMP0546,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,147070,13720,6860,320,167970,10560
+EMP0547,2026,L3 - Professional / Specialist,Strategy & Legal,Fixed-term,461340,51360,13010,0,525710,27770
+EMP0548,2026,L5 - Senior Manager,Finance,Permanent full-time,1208770,147800,193140,42030,1591740,71070
+EMP0549,2026,L2 - Skilled / Clerical,Operations,Fixed-term,224300,29550,11490,0,265340,14050
+EMP0550,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,561650,69540,18810,16610,666610,34140
+EMP0551,2026,L1 - Operational / Entry,Operations,Permanent full-time,149080,14310,540,240,164170,10260
+EMP0552,2026,L4 - Manager,Operations,Permanent full-time,488540,67810,57590,4490,618430,31480
+EMP0553,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,289200,35000,9610,2130,335940,19200
+EMP0554,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,397620,37970,26910,8540,471040,24600
+EMP0555,2026,L3 - Professional / Specialist,Operations,Permanent full-time,514750,55760,29540,750,600800,30150
+EMP0556,2026,L1 - Operational / Entry,Operations,Permanent full-time,170640,15130,3910,3430,193110,11020
+EMP0557,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1740100,233950,286230,77300,2337580,102910
+EMP0558,2026,L6 - Executive,Operations,Permanent full-time,2786550,361400,524450,405700,4078100,160090
+EMP0559,2026,L4 - Manager,Strategy & Legal,Permanent full-time,517290,76310,47700,10250,651550,32180
+EMP0560,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,494490,54400,21100,0,569990,31310
+EMP0561,2026,L5 - Senior Manager,Finance,Permanent full-time,1067050,181700,161840,22610,1433200,65320
+EMP0562,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,269170,29270,21580,0,320020,17570
+EMP0563,2026,L1 - Operational / Entry,Operations,Permanent full-time,157090,15270,4430,0,176790,10750
+EMP0564,2026,L3 - Professional / Specialist,Operations,Permanent full-time,573740,84950,36430,18360,713480,37100
+EMP0565,2026,L5 - Senior Manager,Operations,Permanent full-time,1080680,139850,161460,34600,1416590,65570
+EMP0566,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1416650,210450,191090,49170,1867360,82370
+EMP0567,2026,L1 - Operational / Entry,Sales & Customer,Learner,202270,21780,3810,0,227860,13290
+EMP0568,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,1123740,192230,155310,10600,1481880,70360
+EMP0569,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,466070,49160,39870,2030,557130,30540
+EMP0570,2026,L4 - Manager,Operations,Permanent full-time,669210,83000,69320,27380,848910,39210
+EMP0571,2026,L3 - Professional / Specialist,Operations,Fixed-term,418170,45680,35860,0,499710,26830
+EMP0572,2026,L3 - Professional / Specialist,Technology,Permanent full-time,357600,44910,27380,8340,438230,24410
+EMP0573,2026,L3 - Professional / Specialist,Operations,Permanent full-time,450730,63470,28590,0,542790,28310
+EMP0574,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,363090,36450,23270,0,422810,23180
+EMP0575,2026,L2 - Skilled / Clerical,Technology,Fixed-term,297470,33030,12630,0,343130,18940
+EMP0576,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,211710,24140,1320,0,237170,14330
+EMP0577,2026,L4 - Manager,People & Culture,Permanent full-time,640000,88490,58270,0,786760,41220
+EMP0578,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,266710,29760,11310,0,307780,17830
+EMP0579,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,288480,38450,12420,10770,350120,18590
+EMP0580,2026,L4 - Manager,Technology,Permanent full-time,839820,108890,69160,330,1018200,50330
+EMP0581,2026,L1 - Operational / Entry,Operations,Permanent full-time,213210,13580,0,0,226790,14260
+EMP0582,2026,L1 - Operational / Entry,Operations,Permanent full-time,131930,14440,3310,0,149680,9100
+EMP0583,2026,L1 - Operational / Entry,Strategy & Legal,Permanent full-time,166700,20350,440,0,187490,11010
+EMP0584,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,227910,21340,2580,3970,255800,14940
+EMP0585,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,270800,35970,8220,8520,323510,17150
+EMP0586,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,364350,50470,18830,0,433650,24310
+EMP0587,2026,L4 - Manager,Technology,Permanent full-time,807560,112650,80250,20990,1021450,48600
+EMP0588,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,261070,20660,0,0,281730,16730
+EMP0589,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,131400,12800,1560,0,145760,8680
+EMP0590,2026,L4 - Manager,Operations,Permanent full-time,663070,72480,62760,11170,809480,39440
+EMP0591,2026,L1 - Operational / Entry,Operations,Permanent full-time,148690,19980,1780,0,170450,9650
+EMP0592,2026,L1 - Operational / Entry,Operations,Learner,156350,13070,1280,0,170700,10330
+EMP0593,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,474100,57760,3710,4320,539890,27730
+EMP0594,2026,L3 - Professional / Specialist,Technology,Permanent full-time,568170,63550,27710,0,659430,35400
+EMP0595,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,330600,48320,13820,3260,396000,21570
+EMP0596,2026,L4 - Manager,Operations,Permanent full-time,684330,108390,45420,0,838140,38900
+EMP0597,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,164050,15390,6530,0,185970,11360
+EMP0598,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,110460,11880,4680,0,127020,7710
+EMP0599,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,163670,17390,2490,0,183550,10720
+EMP0600,2026,L1 - Operational / Entry,Corporate Services,Permanent part-time,211860,23590,0,2200,237650,14070
+EMP0601,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,239840,31490,7700,9590,288620,14940
+EMP0602,2026,L1 - Operational / Entry,Operations,Fixed-term,176570,14830,3550,0,194950,11940
+EMP0603,2026,L4 - Manager,Strategy & Legal,Permanent full-time,579690,78320,45530,0,703540,34040
+EMP0604,2026,L1 - Operational / Entry,Operations,Permanent part-time,136200,14830,0,2590,153620,9080
+EMP0605,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,257470,27730,14660,0,299860,16940
+EMP0606,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,286450,27800,8340,0,322590,17710
+EMP0607,2026,L1 - Operational / Entry,Operations,Permanent full-time,143190,12700,0,0,155890,9350
+EMP0608,2026,L6 - Executive,Corporate Services,Permanent full-time,1818610,289580,327990,245130,2681310,108070
+EMP0609,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,122220,11080,3440,0,136740,8190
+EMP0610,2026,L1 - Operational / Entry,Operations,Permanent full-time,125230,13970,360,0,139560,8170
+EMP0611,2026,L1 - Operational / Entry,Operations,Permanent part-time,148680,13540,0,870,163090,9940
+EMP0612,2026,L1 - Operational / Entry,Finance,Permanent full-time,202710,21020,0,0,223730,13590
+EMP0613,2026,L3 - Professional / Specialist,Sales & Customer,Fixed-term,538580,55040,25320,6990,625930,32740
+EMP0614,2026,L4 - Manager,Technology,Permanent full-time,781880,103000,48110,19550,952540,42700
+EMP0615,2026,L3 - Professional / Specialist,Operations,Permanent full-time,350800,49030,24150,0,423980,22430
+EMP0616,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,216840,21490,4960,0,243290,14160
+EMP0617,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,291440,33420,7170,4870,336900,18690
+EMP0618,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,702810,90670,113470,41160,948110,44990
+EMP0619,2026,L2 - Skilled / Clerical,Strategy & Legal,Fixed-term,337490,32290,7730,1100,378610,22360
+EMP0620,2026,L2 - Skilled / Clerical,Finance,Fixed-term,261840,27780,0,150,289770,16030
+EMP0621,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,722610,110620,93730,13950,940910,43330
+EMP0622,2026,L1 - Operational / Entry,Operations,Fixed-term,194480,20840,2360,530,218210,13110
+EMP0623,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,255040,28900,20910,0,304850,16640
+EMP0624,2026,L4 - Manager,Operations,Permanent full-time,1021330,116250,107390,61570,1306540,62190
+EMP0625,2026,L4 - Manager,Sales & Customer,Permanent full-time,774300,103520,79430,0,957250,47610
+EMP0626,2026,L1 - Operational / Entry,Operations,Permanent full-time,144640,14160,0,2510,161310,8880
+EMP0627,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,181990,20560,7170,3040,212760,12320
+EMP0628,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1003540,125680,155630,41290,1326140,64370
+EMP0629,2026,L4 - Manager,Sales & Customer,Permanent full-time,517360,76510,58290,9490,661650,34740
+EMP0630,2026,L3 - Professional / Specialist,Technology,Permanent full-time,397900,44770,26880,9330,478880,25180
+EMP0631,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,345000,34820,20240,0,400060,22840
+EMP0632,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,301110,29360,3670,0,334140,18810
+EMP0633,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,265750,27810,9360,0,302920,17360
+EMP0634,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,300620,42930,27520,0,371070,20210
+EMP0635,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,410040,57460,19700,0,487200,24070
+EMP0636,2026,L3 - Professional / Specialist,Technology,Permanent full-time,427050,42340,15230,0,484620,25630
+EMP0637,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1580130,222030,175630,29850,2007640,92000
+EMP0638,2026,L1 - Operational / Entry,Corporate Services,Fixed-term,119640,12540,4250,0,136430,8130
+EMP0639,2026,L4 - Manager,Operations,Permanent full-time,905250,109570,82660,0,1097480,52710
+EMP0640,2026,L1 - Operational / Entry,Finance,Permanent full-time,163730,12180,0,0,175910,10780
+EMP0641,2026,L4 - Manager,People & Culture,Permanent full-time,729120,98340,66920,1560,895940,46150
+EMP0642,2026,L5 - Senior Manager,Finance,Permanent full-time,1192530,159470,149880,59850,1561730,69910
+EMP0643,2026,L1 - Operational / Entry,Finance,Permanent full-time,127160,12750,1530,0,141440,8130
+EMP0644,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1032250,147590,114950,26770,1321560,61110
+EMP0645,2026,L6 - Executive,Operations,Permanent full-time,3714090,475340,653910,443050,5286390,210780
+EMP0646,2026,L5 - Senior Manager,Finance,Permanent full-time,978780,139060,152070,39360,1309270,61200
+EMP0647,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,292110,37140,6440,0,335690,18520
+EMP0648,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,203400,13700,0,0,217100,13410
+EMP0649,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,241000,25010,8770,0,274780,15710
+EMP0650,2026,L4 - Manager,Finance,Permanent full-time,723580,78370,60340,10300,872590,40660
+EMP0651,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,270330,29180,3220,0,302730,16730
+EMP0652,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,397520,46460,34570,0,478550,25540
+EMP0653,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,251580,31870,360,0,283810,15740
+EMP0654,2026,L3 - Professional / Specialist,Operations,Permanent full-time,557440,60630,21340,0,639410,34540
+EMP0655,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,430530,42640,36890,0,510060,26590
+EMP0656,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,242070,25270,3460,0,270800,15220
+EMP0657,2026,L7 - Executive Leadership,Sales & Customer,Permanent full-time,3808310,425270,788160,646300,5668040,220330
+EMP0658,2026,L3 - Professional / Specialist,Technology,Permanent full-time,382080,36470,25490,7200,451240,24590
+EMP0659,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,305280,30430,3990,0,339700,19330
+EMP0660,2026,L4 - Manager,Operations,Permanent full-time,826150,125270,67080,12710,1031210,47520
+EMP0661,2026,L7 - Executive Leadership,Technology,Permanent full-time,3589280,581710,789080,694860,5654930,210440
+EMP0662,2026,L1 - Operational / Entry,Operations,Learner,147690,14970,0,4270,166930,9810
+EMP0663,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,231210,20870,13350,0,265430,15220
+EMP0664,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,326950,42110,920,0,369980,21300
+EMP0665,2026,L4 - Manager,Strategy & Legal,Permanent full-time,1342410,157610,188000,3340,1691360,78340
+EMP0666,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,207300,23980,2760,4940,238980,14030
+EMP0667,2026,L1 - Operational / Entry,Operations,Permanent full-time,152060,14840,0,2490,169390,10650
+EMP0668,2026,L3 - Professional / Specialist,Technology,Permanent full-time,239160,25470,12980,0,277610,15240
+EMP0669,2026,L1 - Operational / Entry,Finance,Permanent full-time,134150,14330,2380,0,150860,8830
+EMP0670,2026,L1 - Operational / Entry,Finance,Permanent full-time,74360,7120,1920,0,83400,4980
+EMP0671,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,264910,22320,10310,0,297540,17870
+EMP0672,2026,L4 - Manager,People & Culture,Permanent full-time,821320,89930,82650,13550,1007450,50340
+EMP0673,2026,L4 - Manager,Finance,Permanent full-time,645160,88650,57550,15530,806890,39020
+EMP0674,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,167450,17290,1690,3030,189460,10990
+EMP0675,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,79160,7320,0,0,86480,4920
+EMP0676,2026,L4 - Manager,Sales & Customer,Permanent full-time,638340,76270,49290,4770,768670,40460
+EMP0677,2026,L1 - Operational / Entry,Operations,Permanent full-time,173920,17250,6130,0,197300,12130
+EMP0678,2026,L4 - Manager,Corporate Services,Permanent full-time,604670,76830,80700,0,762200,39780
+EMP0679,2026,L1 - Operational / Entry,Operations,Fixed-term,175520,15420,0,5470,196410,11620
+EMP0680,2026,L2 - Skilled / Clerical,Operations,Fixed-term,255610,21900,5680,0,283190,15920
+EMP0681,2026,L1 - Operational / Entry,Operations,Permanent full-time,122020,13340,3370,0,138730,8390
+EMP0682,2026,L1 - Operational / Entry,Technology,Permanent full-time,147300,17900,0,0,165200,9820
+EMP0683,2026,L2 - Skilled / Clerical,Sales & Customer,Fixed-term,228200,29110,9800,1000,268110,15040
+EMP0684,2026,L3 - Professional / Specialist,Finance,Permanent full-time,407730,49140,11420,4490,472780,25150
+EMP0685,2026,L4 - Manager,Corporate Services,Permanent full-time,512900,81720,46400,0,641020,31490
+EMP0686,2026,L1 - Operational / Entry,Operations,Permanent full-time,167710,18100,1840,3270,190920,10880
+EMP0687,2026,L4 - Manager,Strategy & Legal,Permanent full-time,730230,96680,59540,0,886450,42990
+EMP0688,2026,L1 - Operational / Entry,Technology,Learner,175820,18370,0,0,194190,12220
+EMP0689,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,305270,27520,19110,0,351900,20860
+EMP0690,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1335430,191270,144510,0,1671210,74050
+EMP0691,2026,L4 - Manager,Corporate Services,Permanent full-time,559070,70590,68780,0,698440,36080
+EMP0692,2026,L6 - Executive,Operations,Permanent full-time,3073700,396980,469790,225130,4165600,164130
+EMP0693,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,305000,34390,11430,5400,356220,19960
+EMP0694,2026,L2 - Skilled / Clerical,Finance,Permanent part-time,309240,34950,7040,3910,355140,19950
+EMP0695,2026,L1 - Operational / Entry,Operations,Permanent full-time,221120,28440,60,0,249620,15300
+EMP0696,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,972050,108970,143470,850,1225340,59570
+EMP0697,2026,L1 - Operational / Entry,Operations,Learner,176490,14980,2920,0,194390,11960
+EMP0698,2026,L1 - Operational / Entry,Operations,Permanent full-time,150910,16780,860,2040,170590,10160
+EMP0699,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,643530,69410,40010,28160,781110,39050
+EMP0700,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,303310,24570,6760,4460,339100,19120
+EMP0701,2026,L1 - Operational / Entry,Operations,Permanent part-time,125500,12930,1520,680,140630,8300
+EMP0702,2026,L2 - Skilled / Clerical,Sales & Customer,Fixed-term,249890,26370,5460,11090,292810,16710
+EMP0703,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,329780,46750,26560,7510,410600,22330
+EMP0704,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,343820,40150,12550,0,396520,23480
+EMP0705,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,966680,133200,138340,48480,1286700,56940
+EMP0706,2026,L4 - Manager,Operations,Permanent full-time,801900,119120,75220,0,996240,45420
+EMP0707,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,208980,21690,8490,2490,241650,13880
+EMP0708,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,250880,23900,14880,4490,294150,16480
+EMP0709,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,401780,52250,26890,0,480920,25590
+EMP0710,2026,L1 - Operational / Entry,Technology,Learner,230420,25300,0,4610,260330,14890
+EMP0711,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,277000,30270,1180,12570,321020,16990
+EMP0712,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,1475920,226470,233700,1190,1937280,89810
+EMP0713,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,185860,18830,7970,7090,219750,12730
+EMP0714,2026,L4 - Manager,Finance,Permanent full-time,641610,72450,66600,0,780660,41160
+EMP0715,2026,L1 - Operational / Entry,Operations,Fixed-term,137550,16310,3640,0,157500,9690
+EMP0716,2026,L6 - Executive,People & Culture,Permanent full-time,2137300,270550,368490,219630,2995970,129480
+EMP0717,2026,L6 - Executive,Operations,Permanent full-time,1848680,214010,362740,178480,2603910,114540
+EMP0718,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,272290,32950,7350,0,312590,17340
+EMP0719,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,356160,42350,26020,160,424690,24000
+EMP0720,2026,L3 - Professional / Specialist,Technology,Permanent full-time,464970,63730,9980,4150,542830,27140
+EMP0721,2026,L3 - Professional / Specialist,Technology,Permanent full-time,409660,48310,28790,20,486780,25530
+EMP0722,2026,L4 - Manager,Corporate Services,Permanent full-time,650610,86180,65410,0,802200,37690
+EMP0723,2026,L2 - Skilled / Clerical,Finance,Fixed-term,347210,31180,6570,0,384960,21430
+EMP0724,2026,L1 - Operational / Entry,Finance,Permanent full-time,147770,16120,2990,730,167610,9290
+EMP0725,2026,L1 - Operational / Entry,Operations,Learner,137600,15320,0,0,152920,9260
+EMP0726,2026,L1 - Operational / Entry,Operations,Permanent full-time,143360,13730,1940,1190,160220,9490
+EMP0727,2026,L2 - Skilled / Clerical,Finance,Permanent part-time,259350,28290,7360,0,295000,16900
+EMP0728,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,270980,34050,10370,1610,317010,17820
+EMP0729,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,477350,46060,28100,18900,570410,29600
+EMP0730,2026,L3 - Professional / Specialist,Finance,Fixed-term,559540,63570,62660,13520,699290,35880
+EMP0731,2026,L1 - Operational / Entry,Operations,Learner,157240,13990,6580,0,177810,10290
+EMP0732,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,337900,47340,27200,11270,423710,22020
+EMP0733,2026,L5 - Senior Manager,Finance,Permanent full-time,1024820,135080,145520,0,1305420,61970
+EMP0734,2026,L6 - Executive,Sales & Customer,Permanent full-time,1323880,160980,264370,215590,1964820,78830
+EMP0735,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,369980,52060,21620,7000,450660,23060
+EMP0736,2026,L4 - Manager,People & Culture,Permanent full-time,768210,85790,72590,0,926590,43730
+EMP0737,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,356720,28960,25830,2830,414340,23850
+EMP0738,2026,L4 - Manager,Operations,Permanent full-time,733270,91030,95160,0,919460,46410
+EMP0739,2026,L3 - Professional / Specialist,Technology,Permanent full-time,481930,52130,31560,0,565620,29420
+EMP0740,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,261060,26240,11080,7810,306190,16970
+EMP0741,2026,L6 - Executive,Finance,Permanent full-time,2139640,302200,369180,231420,3042440,124380
+EMP0742,2026,L3 - Professional / Specialist,Technology,Permanent full-time,409370,46510,25650,0,481530,24380
+EMP0743,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,390290,37840,32980,0,461110,24700
+EMP0744,2026,L1 - Operational / Entry,Technology,Learner,138060,12480,0,0,150540,8910
+EMP0745,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,204590,18300,960,1810,225660,13610
+EMP0746,2026,L4 - Manager,Technology,Permanent full-time,671520,86000,54070,0,811590,39730
+EMP0747,2026,L1 - Operational / Entry,Technology,Fixed-term,147540,16940,6010,0,170490,9810
+EMP0748,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1289840,142040,200950,24010,1656840,76520
+EMP0749,2026,L3 - Professional / Specialist,Finance,Permanent full-time,474760,61500,43140,0,579400,29280
+EMP0750,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,240020,25710,18040,2700,286470,16500
+EMP0751,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,529460,60410,25000,0,614870,31950
+EMP0752,2026,L4 - Manager,Sales & Customer,Permanent full-time,699950,92750,62890,16190,871780,41050
+EMP0753,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,341360,37200,7600,10050,396210,21640
+EMP0754,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,209680,28220,6960,0,244860,14530
+EMP0755,2026,L1 - Operational / Entry,People & Culture,Learner,128360,14380,0,5820,148560,8790
+EMP0756,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,470860,65430,29830,0,566120,28870
+EMP0757,2026,L4 - Manager,Sales & Customer,Permanent full-time,870180,144680,102260,28110,1145230,52940
+EMP0758,2026,L2 - Skilled / Clerical,Operations,Fixed-term,390640,43810,6290,0,440740,25220
+EMP0759,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,300510,35750,12520,7680,356460,19810
+EMP0760,2026,L3 - Professional / Specialist,Operations,Permanent full-time,448990,54040,19670,14330,537030,26540
+EMP0761,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,226480,23270,4310,0,254060,14570
+EMP0762,2026,L3 - Professional / Specialist,Technology,Permanent full-time,486420,46960,36370,9770,579520,29010
+EMP0763,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,325670,33180,13370,0,372220,21380
+EMP0764,2026,L4 - Manager,Sales & Customer,Permanent full-time,596130,70770,50800,21590,739290,36320
+EMP0765,2026,L4 - Manager,People & Culture,Permanent full-time,646580,79020,64120,21520,811240,37550
+EMP0766,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,341470,31550,14710,10580,398310,21970
+EMP0767,2026,L3 - Professional / Specialist,Operations,Permanent full-time,479000,63040,20780,0,562820,29140
+EMP0768,2026,L1 - Operational / Entry,Operations,Fixed-term,186180,14420,0,0,200600,11820
+EMP0769,2026,L3 - Professional / Specialist,Operations,Permanent full-time,378240,48040,32790,2380,461450,23650
+EMP0770,2026,L4 - Manager,Operations,Permanent full-time,700710,68570,82010,1120,852410,42670
+EMP0771,2026,L4 - Manager,Technology,Fixed-term,625210,88510,70120,16980,800820,38890
+EMP0772,2026,L4 - Manager,Sales & Customer,Permanent full-time,565220,70480,65050,9810,710560,36350
+EMP0773,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,230000,18090,9860,5320,263270,15290
+EMP0774,2026,L1 - Operational / Entry,Operations,Permanent full-time,157400,17130,0,2370,176900,10190
+EMP0775,2026,L5 - Senior Manager,Technology,Permanent full-time,860070,124290,102320,41590,1128270,50460
+EMP0776,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1211220,142290,162180,0,1515690,70720
+EMP0777,2026,L1 - Operational / Entry,Operations,Permanent part-time,142870,14510,2800,0,160180,9480
+EMP0778,2026,L3 - Professional / Specialist,Technology,Permanent full-time,460210,58460,31110,18940,568720,29400
+EMP0779,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,323790,38330,20210,0,382330,22090
+EMP0780,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,164890,19650,0,2460,187000,10340
+EMP0781,2026,L2 - Skilled / Clerical,Finance,Fixed-term,227040,24050,12830,2650,266570,15580
+EMP0782,2026,L4 - Manager,Sales & Customer,Permanent full-time,896750,120590,33120,21580,1072040,50850
+EMP0783,2026,L3 - Professional / Specialist,Operations,Permanent full-time,467340,64490,31950,0,563780,29380
+EMP0784,2026,L1 - Operational / Entry,Sales & Customer,Permanent part-time,140320,13570,0,5200,159090,9450
+EMP0785,2026,L1 - Operational / Entry,Operations,Permanent full-time,172670,16710,5090,2490,196960,11750
+EMP0786,2026,L4 - Manager,Strategy & Legal,Permanent full-time,709140,92360,32760,0,834260,39910
+EMP0787,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,416180,48630,35180,0,499990,26450
+EMP0788,2026,L4 - Manager,Operations,Permanent full-time,718150,85150,68280,0,871580,42340
+EMP0789,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,365160,37670,0,8300,411130,23270
+EMP0790,2026,L4 - Manager,Technology,Permanent full-time,874530,107360,68500,0,1050390,51030
+EMP0791,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,261210,31380,12920,0,305510,16520
+EMP0792,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,283780,37670,7830,0,329280,17820
+EMP0793,2026,L1 - Operational / Entry,Operations,Permanent full-time,220940,23440,5580,8540,258500,14390
+EMP0794,2026,L6 - Executive,Executive Office,Permanent full-time,2712600,427860,496650,348020,3985130,163300
+EMP0795,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1616800,262320,243820,31200,2154140,90630
+EMP0796,2026,L2 - Skilled / Clerical,People & Culture,Fixed-term,267880,28740,120,0,296740,16570
+EMP0797,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,350490,50760,12950,0,414200,22730
+EMP0798,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,171880,19380,140,0,191400,11260
+EMP0799,2026,L4 - Manager,Sales & Customer,Permanent full-time,836480,116190,54320,0,1006990,48320
+EMP0800,2026,L6 - Executive,Operations,Permanent full-time,1734970,284600,280240,230490,2530300,103480
+EMP0801,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,509080,62870,35990,7770,615710,32220
+EMP0802,2026,L4 - Manager,Operations,Permanent full-time,934990,123070,97410,0,1155470,55360
+EMP0803,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,337590,40510,10640,15530,404270,21810
+EMP0804,2026,L4 - Manager,Operations,Permanent full-time,769320,115560,64440,0,949320,45260
+EMP0805,2026,L4 - Manager,Sales & Customer,Permanent full-time,755650,107100,49920,6590,919260,45080
+EMP0806,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,232880,23510,2520,0,258910,14830
+EMP0807,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,216970,24950,3700,0,245620,14340
+EMP0808,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,309010,33870,8950,7940,359770,21290
+EMP0809,2026,L3 - Professional / Specialist,Technology,Permanent full-time,314480,39340,3610,5820,363250,19220
+EMP0810,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,258530,26450,3060,8790,296830,15860
+EMP0811,2026,L3 - Professional / Specialist,Finance,Permanent full-time,673440,79150,24460,1130,778180,42310
+EMP0812,2026,L1 - Operational / Entry,Operations,Permanent part-time,154170,15960,0,0,170130,10110
+EMP0813,2026,L4 - Manager,People & Culture,Fixed-term,561030,75290,63920,13410,713650,37910
+EMP0814,2026,L4 - Manager,Finance,Permanent full-time,530890,67880,45970,9720,654460,33070
+EMP0815,2026,L4 - Manager,Sales & Customer,Permanent full-time,760510,99010,53690,19610,932820,43450
+EMP0816,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,270660,29630,13290,0,313580,17570
+EMP0817,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,434890,60060,19780,0,514730,26730
+EMP0818,2026,L4 - Manager,Corporate Services,Permanent full-time,710180,95130,88020,0,893330,43000
+EMP0819,2026,L4 - Manager,Strategy & Legal,Fixed-term,697160,79780,54340,2770,834050,39560
+EMP0820,2026,L1 - Operational / Entry,Operations,Permanent full-time,172320,18610,1430,0,192360,11240
+EMP0821,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,236110,27580,360,2190,266240,14100
+EMP0822,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,239020,33520,10630,380,283550,15110
+EMP0823,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,336130,39740,10810,0,386680,21760
+EMP0824,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,291970,29010,9490,0,330470,17890
+EMP0825,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,254860,27320,7210,0,289390,15640
+EMP0826,2026,L1 - Operational / Entry,Operations,Fixed-term,172030,19050,0,0,191080,11140
+EMP0827,2026,L4 - Manager,Operations,Permanent full-time,527520,71830,48540,22870,670760,33290
+EMP0828,2026,L4 - Manager,Technology,Permanent full-time,679540,101220,60220,13970,854950,41820
+EMP0829,2026,L5 - Senior Manager,Operations,Permanent full-time,1111340,129410,160430,22980,1424160,69180
+EMP0830,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,150330,17660,4730,0,172720,10220
+EMP0831,2026,L5 - Senior Manager,Operations,Permanent full-time,946510,141560,104630,37300,1230000,56810
+EMP0832,2026,L4 - Manager,Finance,Permanent full-time,621630,88560,67740,0,777930,40900
+EMP0833,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,230610,26940,9730,0,267280,14930
+EMP0834,2026,L6 - Executive,Executive Office,Permanent full-time,1599480,212090,339510,192610,2343690,98800
+EMP0835,2026,L2 - Skilled / Clerical,Operations,Fixed-term,245700,27560,7260,14750,295270,16390
+EMP0836,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,339130,32710,12070,0,383910,21880
+EMP0837,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,231580,23830,5200,0,260610,15120
+EMP0838,2026,L4 - Manager,Sales & Customer,Permanent full-time,462720,57300,51980,4890,576890,30530
+EMP0839,2026,L3 - Professional / Specialist,Technology,Permanent full-time,600560,73120,35090,0,708770,37310
+EMP0840,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,294620,36400,7260,0,338280,19300
+EMP0841,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,280110,33430,5660,10800,330000,17760
+EMP0842,2026,L4 - Manager,Technology,Permanent full-time,818100,91090,93680,9650,1012520,48330
+EMP0843,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,390440,43370,30650,4970,469430,24080
+EMP0844,2026,L1 - Operational / Entry,Sales & Customer,Learner,204110,20700,0,0,224810,13780
+EMP0845,2026,L1 - Operational / Entry,Strategy & Legal,Permanent part-time,131600,13580,3280,6700,155160,8720
+EMP0846,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,458470,46420,28740,6760,540390,28580
+EMP0847,2026,L4 - Manager,Technology,Permanent full-time,835470,103150,90860,0,1029480,48680
+EMP0848,2026,L2 - Skilled / Clerical,Corporate Services,Permanent part-time,216280,26810,9420,860,253370,13850
+EMP0849,2026,L1 - Operational / Entry,Operations,Permanent part-time,221660,22070,1630,0,245360,14520
+EMP0850,2026,L4 - Manager,Technology,Permanent full-time,680970,96480,59550,28160,865160,40800
+EMP0851,2026,L6 - Executive,Executive Office,Permanent full-time,2042320,266510,367520,300070,2976420,122150
+EMP0852,2026,L3 - Professional / Specialist,Technology,Permanent full-time,632980,72500,31880,0,737360,40620
+EMP0853,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,328840,32040,10520,7780,379180,21120
+EMP0854,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,181380,19080,5820,0,206280,12240
+EMP0855,2026,L3 - Professional / Specialist,Finance,Permanent full-time,417180,46790,34460,0,498430,26100
+EMP0856,2026,L4 - Manager,Strategy & Legal,Permanent full-time,824710,96160,69210,850,990930,46290
+EMP0857,2026,L7 - Executive Leadership,Strategy & Legal,Permanent full-time,3948310,549500,832660,937140,6267610,231430
+EMP0858,2026,L3 - Professional / Specialist,Technology,Permanent full-time,329850,39040,10680,4040,383610,20840
+EMP0859,2026,L4 - Manager,Technology,Permanent full-time,509600,46210,40380,4200,600390,32780
+EMP0860,2026,L1 - Operational / Entry,People & Culture,Learner,144280,18980,3270,5500,172030,9580
+EMP0861,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,387550,43540,17360,7780,456230,23680
+EMP0862,2026,L3 - Professional / Specialist,Technology,Permanent full-time,282370,37890,13290,9000,342550,19060
+EMP0863,2026,L6 - Executive,Strategy & Legal,Fixed-term,1740350,296300,339450,200180,2576280,110830
+EMP0864,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,240100,31620,10110,6710,288540,15450
+EMP0865,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,314830,31870,5300,0,352000,20250
+EMP0866,2026,L3 - Professional / Specialist,Operations,Permanent full-time,407950,56330,18870,0,483150,25190
+EMP0867,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,190260,17550,6710,5930,220450,13490
+EMP0868,2026,L5 - Senior Manager,Finance,Permanent full-time,1670760,203900,222580,0,2097240,97150
+EMP0869,2026,L3 - Professional / Specialist,Technology,Permanent full-time,751960,101820,13780,0,867560,41320
+EMP0870,2026,L4 - Manager,Sales & Customer,Permanent full-time,670920,97900,51390,18060,838270,39440
+EMP0871,2026,L4 - Manager,Operations,Permanent full-time,626400,55520,54560,17940,754420,39730
+EMP0872,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,524470,53240,24040,0,601750,31490
+EMP0873,2026,L4 - Manager,Sales & Customer,Permanent full-time,725840,96720,75560,0,898120,42310
+EMP0874,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,212270,24890,8380,3630,249170,14600
+EMP0875,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1015740,113230,146440,56590,1332000,64770
+EMP0876,2026,L4 - Manager,People & Culture,Permanent full-time,618420,73540,51240,13250,756450,38960
+EMP0877,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1203790,187360,194770,35200,1621120,71990
+EMP0878,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,224540,25160,7770,0,257470,14460
+EMP0879,2026,L3 - Professional / Specialist,Operations,Permanent full-time,362430,50220,17300,17850,447800,24320
+EMP0880,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,366210,47270,26950,0,440430,24040
+EMP0881,2026,L4 - Manager,Strategy & Legal,Permanent full-time,841280,104070,61060,22200,1028610,48890
+EMP0882,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,225430,33160,990,3450,263030,14170
+EMP0883,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,257670,35110,12320,270,305370,16740
+EMP0884,2026,L3 - Professional / Specialist,Corporate Services,Permanent part-time,557130,66250,61520,8020,692920,36420
+EMP0885,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,893440,104200,142860,30780,1171280,55400
+EMP0886,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,323780,39230,17720,6680,387410,21610
+EMP0887,2026,L6 - Executive,Operations,Permanent full-time,2318460,309710,474720,234560,3337450,134360
+EMP0888,2026,L4 - Manager,Finance,Permanent full-time,618560,89460,69980,1480,779480,38880
+EMP0889,2026,L4 - Manager,Sales & Customer,Permanent full-time,656060,105380,52160,3080,816680,38660
+EMP0890,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,232680,27970,9560,0,270210,14670
+EMP0891,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,243360,24300,1370,13250,282280,15230
+EMP0892,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,162190,17280,8780,2230,190480,11440
+EMP0893,2026,L6 - Executive,Technology,Permanent full-time,2429660,328760,415390,303310,3477120,132190
+EMP0894,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,535160,67590,36370,13120,652240,35120
+EMP0895,2026,L1 - Operational / Entry,Strategy & Legal,Permanent full-time,149490,15200,390,2700,167780,9810
+EMP0896,2026,L1 - Operational / Entry,Finance,Permanent full-time,185990,18560,870,5500,210920,12170
+EMP0897,2026,L6 - Executive,Executive Office,Permanent full-time,2620450,357030,483710,175590,3636780,143600
+EMP0898,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,478650,61150,34090,8700,582590,29200
+EMP0899,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,320720,31530,16950,0,369200,21350
+EMP0900,2026,L4 - Manager,Operations,Permanent full-time,558550,69970,65990,0,694510,36650
+EMP0901,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,462100,49660,31910,15930,559600,28500
+EMP0902,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,432830,46730,17300,10640,507500,26620
+EMP0903,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,295340,29490,13970,6720,345520,19470
+EMP0904,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,292530,29320,1350,0,323200,18600
+EMP0905,2026,L3 - Professional / Specialist,Operations,Permanent full-time,352780,40770,27830,0,421380,24040
+EMP0906,2026,L5 - Senior Manager,Finance,Permanent full-time,1112850,156370,175160,24760,1469140,67590
+EMP0907,2026,L3 - Professional / Specialist,Technology,Permanent full-time,419680,52390,29810,1240,503120,26070
+EMP0908,2026,L6 - Executive,Executive Office,Permanent full-time,2452040,329570,468610,269030,3519250,135070
+EMP0909,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,210610,21590,4010,0,236210,13620
+EMP0910,2026,L4 - Manager,Finance,Permanent full-time,834110,117520,94110,35280,1081020,50470
+EMP0911,2026,L1 - Operational / Entry,People & Culture,Permanent full-time,183730,22080,0,4760,210570,12060
+EMP0912,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,294710,31760,5670,0,332140,18590
+EMP0913,2026,L3 - Professional / Specialist,Sales & Customer,Fixed-term,432160,45870,37220,17250,532500,25460
+EMP0914,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,426430,44130,17390,0,487950,26270
+EMP0915,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,147620,13630,0,2490,163740,9900
+EMP0916,2026,L3 - Professional / Specialist,Operations,Permanent full-time,488080,65930,32960,27180,614150,30790
+EMP0917,2026,L4 - Manager,Operations,Permanent full-time,954360,105870,94900,3320,1158450,54770
+EMP0918,2026,L4 - Manager,Finance,Permanent full-time,978520,119620,105610,28590,1232340,57860
+EMP0919,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,72180,8310,1550,1680,83720,4820
+EMP0920,2026,L1 - Operational / Entry,Operations,Permanent full-time,158030,14940,1610,6390,180970,10890
+EMP0921,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,282910,35420,14270,0,332600,18750
+EMP0922,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,382540,55070,21260,9610,468480,23580
+EMP0923,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,205030,21090,4470,1800,232390,13390
+EMP0924,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,286360,30120,2020,0,318500,17930
+EMP0925,2026,L1 - Operational / Entry,Strategy & Legal,Permanent part-time,123800,8300,3660,1330,137090,8480
+EMP0926,2026,L6 - Executive,People & Culture,Permanent full-time,1403910,220820,261370,144350,2030450,82240
+EMP0927,2026,L5 - Senior Manager,Technology,Permanent full-time,916660,136580,124560,46360,1224160,55450
+EMP0928,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,351630,47010,20020,15700,434360,22270
+EMP0929,2026,L6 - Executive,Sales & Customer,Fixed-term,2822070,340140,464460,218870,3845540,156140
+EMP0930,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,445080,58240,29720,15110,548150,27420
+EMP0931,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,303200,26200,280,0,329680,19070
+EMP0932,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,272980,31100,0,0,304080,17550
+EMP0933,2026,L4 - Manager,Technology,Permanent full-time,714060,97590,70380,19450,901480,43630
+EMP0934,2026,L4 - Manager,Operations,Permanent full-time,593880,75640,38390,21430,729340,35850
+EMP0935,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,210570,28780,3870,0,243220,14150
+EMP0936,2026,L3 - Professional / Specialist,Operations,Permanent full-time,344420,47620,24180,1060,417280,22810
+EMP0937,2026,L5 - Senior Manager,Strategy & Legal,Fixed-term,1564240,188410,178200,0,1930850,86720
+EMP0938,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,363130,40650,10340,9360,423480,24410
+EMP0939,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,341050,33240,2030,7520,383840,21210
+EMP0940,2026,L3 - Professional / Specialist,Finance,Permanent full-time,486650,54020,29290,420,570380,29940
+EMP0941,2026,L4 - Manager,Finance,Permanent full-time,805260,99870,72390,33040,1010560,47260
+EMP0942,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1113120,150950,139090,59910,1463070,68900
+EMP0943,2026,L4 - Manager,Operations,Permanent full-time,671380,97970,60330,23390,853070,40530
+EMP0944,2026,L3 - Professional / Specialist,Operations,Fixed-term,445840,53300,21540,0,520680,26580
+EMP0945,2026,L3 - Professional / Specialist,Technology,Permanent full-time,348750,40020,21760,0,410530,24040
+EMP0946,2026,L6 - Executive,Sales & Customer,Permanent full-time,2323090,360290,462440,273740,3419560,128890
+EMP0947,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,277160,25250,15090,0,317500,18300
+EMP0948,2026,L1 - Operational / Entry,Operations,Permanent full-time,155220,15040,2770,8280,181310,10230
+EMP0949,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,473470,53530,35000,0,562000,29390
+EMP0950,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,248470,37290,11420,5390,302570,16410
+EMP0951,2026,L6 - Executive,Executive Office,Permanent full-time,1506210,225280,284320,210510,2226320,90630
+EMP0952,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,193620,18810,5080,9900,227410,12600
+EMP0953,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,163810,15120,3760,2390,185080,10900
+EMP0954,2026,L1 - Operational / Entry,Finance,Permanent full-time,129000,15510,0,7400,151910,8330
+EMP0955,2026,L1 - Operational / Entry,Finance,Permanent full-time,201820,19360,1360,0,222540,14020
+EMP0956,2026,L3 - Professional / Specialist,Finance,Permanent full-time,535340,65760,35860,4330,641290,32810
+EMP0957,2026,L5 - Senior Manager,Operations,Permanent full-time,1061580,162090,136030,53140,1412840,67180
+EMP0958,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1060980,132690,80090,2620,1276380,60130
+EMP0959,2026,L1 - Operational / Entry,People & Culture,Permanent part-time,120990,12230,1190,0,134410,8090
+EMP0960,2026,L2 - Skilled / Clerical,Operations,Permanent part-time,215420,29510,5710,3620,254260,13940
+EMP0961,2026,L3 - Professional / Specialist,Technology,Permanent full-time,478180,54750,29280,12370,574580,29430
+EMP0962,2026,L4 - Manager,Finance,Permanent full-time,676450,71080,74600,0,822130,39110
+EMP0963,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,448210,52530,4660,0,505400,26610
+EMP0964,2026,L4 - Manager,Strategy & Legal,Permanent full-time,513660,71600,66430,0,651690,34220
+EMP0965,2026,L5 - Senior Manager,Finance,Permanent full-time,1281990,168370,178190,31200,1659750,76180
+EMP0966,2026,L4 - Manager,Finance,Permanent full-time,618110,94350,85990,17260,815710,38390
+EMP0967,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,301980,30850,4270,6190,343290,19280
+EMP0968,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,249230,28040,11500,0,288770,16590
+EMP0969,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,175870,19790,0,0,195660,11650
+EMP0970,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,231260,29370,11310,7550,279490,14970
+EMP0971,2026,L1 - Operational / Entry,Operations,Permanent full-time,146520,12710,2240,0,161470,9630
+EMP0972,2026,L3 - Professional / Specialist,Finance,Permanent full-time,503630,53150,35550,0,592330,31610
+EMP0973,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,260070,26750,12510,0,299330,16590
+EMP0974,2026,L4 - Manager,Finance,Permanent full-time,559650,69390,68760,22880,720680,37450
+EMP0975,2026,L6 - Executive,Technology,Permanent full-time,1111660,171230,188590,122520,1594000,65060
+EMP0976,2026,L5 - Senior Manager,Finance,Permanent full-time,1025430,135310,156950,35510,1353200,62490
+EMP0977,2026,L3 - Professional / Specialist,Operations,Permanent full-time,470750,56320,35280,0,562350,29670
+EMP0978,2026,L1 - Operational / Entry,Operations,Permanent full-time,145030,18320,0,0,163350,10130
+EMP0979,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,227320,27210,7220,6310,268060,13970
+EMP0980,2026,L4 - Manager,Operations,Permanent full-time,538230,83300,58670,8000,688200,33800
+EMP0981,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,527540,59180,27950,0,614670,31820
+EMP0982,2026,L5 - Senior Manager,Operations,Permanent full-time,1011770,136250,137750,28900,1314670,62780
+EMP0983,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,281620,28240,6820,1260,317940,18620
+EMP0984,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,455230,55960,19920,3210,534320,27280
+EMP0985,2026,L3 - Professional / Specialist,Operations,Fixed-term,613190,83740,39120,0,736050,37930
+EMP0986,2026,L3 - Professional / Specialist,Operations,Permanent full-time,414580,52660,17160,1420,485820,25190
+EMP0987,2026,L1 - Operational / Entry,Sales & Customer,Permanent part-time,158710,13830,2400,0,174940,10630
+EMP0988,2026,L4 - Manager,Sales & Customer,Permanent full-time,972160,137920,95390,23130,1228600,57190
+EMP0989,2026,L3 - Professional / Specialist,Finance,Permanent full-time,550270,78590,16860,0,645720,33780
+EMP0990,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,200270,21890,12140,6060,240360,13970
+EMP0991,2026,L1 - Operational / Entry,Operations,Fixed-term,156720,17060,4290,0,178070,10800
+EMP0992,2026,L1 - Operational / Entry,Operations,Permanent full-time,227750,26410,3350,0,257510,14300
+EMP0993,2026,L1 - Operational / Entry,Operations,Permanent full-time,139960,14800,2090,0,156850,9420
+EMP0994,2026,L4 - Manager,Strategy & Legal,Permanent full-time,652620,94360,41940,0,788920,41670
+EMP0995,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,666730,101670,81280,4280,853960,39670
+EMP0996,2026,L5 - Senior Manager,Technology,Permanent full-time,1124540,174190,137800,37630,1474160,66760
+EMP0997,2026,L1 - Operational / Entry,Operations,Permanent full-time,149290,11860,0,0,161150,9850
+EMP0998,2026,L6 - Executive,Sales & Customer,Permanent full-time,1981100,283750,341390,195190,2801430,118060
+EMP0999,2026,L5 - Senior Manager,Technology,Permanent full-time,1288370,186170,210320,45730,1730590,71320
+EMP1000,2026,L4 - Manager,Corporate Services,Permanent full-time,595990,79640,48940,23760,748330,35650
+EMP1001,2026,L4 - Manager,Strategy & Legal,Permanent full-time,578610,67400,56180,0,702190,36070
+EMP1002,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,519900,72860,49190,4760,646710,33000
+EMP1003,2026,L1 - Operational / Entry,Operations,Fixed-term,162320,14750,3560,4110,184740,11120
+EMP1004,2026,L3 - Professional / Specialist,Technology,Permanent full-time,502830,60860,13490,0,577180,29140
+EMP1005,2026,L1 - Operational / Entry,Operations,Permanent full-time,160770,9750,5550,1380,177450,10670
+EMP1006,2026,L4 - Manager,People & Culture,Permanent full-time,690690,93600,59830,22430,866550,40920
+EMP1007,2026,L5 - Senior Manager,Finance,Permanent full-time,1083240,138670,144360,36340,1402610,67050
+EMP1008,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,337050,41450,16750,9650,404900,22250
+EMP1009,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,422500,57080,21860,0,501440,26010
+EMP1010,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,278800,27040,2630,1460,309930,17970
+EMP1011,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,544750,62800,28310,12440,648300,34330
+EMP1012,2026,L3 - Professional / Specialist,Finance,Permanent full-time,413140,62690,15300,0,491130,25570
+EMP1013,2026,L1 - Operational / Entry,Operations,Permanent full-time,169060,17980,0,0,187040,11090
+EMP1014,2026,L4 - Manager,Sales & Customer,Permanent full-time,521790,70060,53270,10390,655510,32960
+EMP1015,2026,L1 - Operational / Entry,Operations,Learner,166670,19940,0,0,186610,11180
+EMP1016,2026,L2 - Skilled / Clerical,Operations,Fixed-term,249100,26140,4370,3680,283290,15570
+EMP1017,2026,L3 - Professional / Specialist,Sales & Customer,Fixed-term,349860,39090,17640,0,406590,23580
+EMP1018,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,754610,93730,101230,25810,975380,47120
+EMP1019,2026,L1 - Operational / Entry,Technology,Permanent full-time,159960,16710,0,1220,177890,10340
+EMP1020,2026,L1 - Operational / Entry,Operations,Permanent full-time,172410,15380,7560,5920,201270,11370
+EMP1021,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,421150,64560,33100,20930,539740,27580
+EMP1022,2026,L5 - Senior Manager,Operations,Permanent full-time,1002570,149060,136320,34930,1322880,62310
+EMP1023,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,216380,26400,5500,10410,258690,13540
+EMP1024,2026,L1 - Operational / Entry,Operations,Permanent full-time,202360,24870,2740,0,229970,13790
+EMP1025,2026,L1 - Operational / Entry,People & Culture,Permanent full-time,237690,23350,0,0,261040,14380
+EMP1026,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,292300,33060,9170,3660,338190,17920
+EMP1027,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,271700,34800,8330,3600,318430,17590
+EMP1028,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,557640,73120,19910,0,650670,32460
+EMP1029,2026,L4 - Manager,People & Culture,Permanent full-time,613250,78700,42110,17900,751960,37900
+EMP1030,2026,L2 - Skilled / Clerical,Strategy & Legal,Fixed-term,191470,24010,5460,770,221710,13190
+EMP1031,2026,L4 - Manager,Operations,Permanent full-time,955660,112500,55240,23090,1146490,54900
+EMP1032,2026,L3 - Professional / Specialist,Technology,Permanent full-time,332420,39520,16450,11690,400080,22040
+EMP1033,2026,L4 - Manager,Finance,Permanent full-time,746020,92490,59190,0,897700,45220
+EMP1034,2026,L1 - Operational / Entry,Operations,Fixed-term,193300,20240,3800,200,217540,12870
+EMP1035,2026,L4 - Manager,Technology,Permanent full-time,710400,75190,59460,0,845050,40200
+EMP1036,2026,L3 - Professional / Specialist,Finance,Permanent full-time,489970,55880,30250,0,576100,30840
+EMP1037,2026,L3 - Professional / Specialist,Operations,Permanent full-time,453010,56780,17770,0,527560,27340
+EMP1038,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,294990,33460,14210,150,342810,20500
+EMP1039,2026,L6 - Executive,Technology,Permanent full-time,2525990,394450,532450,354080,3806970,144890
+EMP1040,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,174560,13970,3520,0,192050,11900
+EMP1041,2026,L5 - Senior Manager,Technology,Permanent full-time,1064090,151930,109660,2800,1328480,63630
+EMP1042,2026,L5 - Senior Manager,Operations,Permanent full-time,1130150,159790,153940,37160,1481040,68820
+EMP1043,2026,L4 - Manager,Operations,Permanent full-time,600750,83240,61240,1110,746340,38190
+EMP1044,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,268860,26060,10110,0,305030,18310
+EMP1045,2026,L1 - Operational / Entry,Operations,Permanent part-time,218350,21210,7090,860,247510,15420
+EMP1046,2026,L3 - Professional / Specialist,Technology,Permanent full-time,352390,36550,12870,0,401810,23000
+EMP1047,2026,L4 - Manager,Sales & Customer,Permanent full-time,809110,88990,95760,0,993860,48930
+EMP1048,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,513650,64970,27530,16430,622580,31920
+EMP1049,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,254510,22850,8150,0,285510,15930
+EMP1050,2026,L4 - Manager,Strategy & Legal,Permanent full-time,650490,74250,89210,0,813950,41010
+EMP1051,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,427460,43850,41960,5930,519200,26930
+EMP1052,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,359060,46830,0,0,405890,22640
+EMP1053,2026,L1 - Operational / Entry,Operations,Fixed-term,117040,13610,3210,0,133860,7440
+EMP1054,2026,L3 - Professional / Specialist,Operations,Permanent full-time,548200,67210,29010,12950,657370,33650
+EMP1055,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,302230,35560,3460,2800,344050,18670
+EMP1056,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,119360,6880,460,2740,129440,8060
+EMP1057,2026,L4 - Manager,Operations,Permanent full-time,605010,88400,48980,0,742390,38940
+EMP1058,2026,L3 - Professional / Specialist,Technology,Permanent full-time,337510,45080,15950,0,398540,22740
+EMP1059,2026,L4 - Manager,People & Culture,Permanent full-time,810510,108900,106260,0,1025670,47370
+EMP1060,2026,L1 - Operational / Entry,Sales & Customer,Permanent part-time,226600,21370,10250,3040,261260,15330
+EMP1061,2026,L6 - Executive,Operations,Permanent full-time,2219590,319210,393470,238340,3170610,124000
+EMP1062,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,493790,66370,24730,13140,598030,29780
+EMP1063,2026,L3 - Professional / Specialist,Finance,Permanent full-time,377550,50890,24590,0,453030,23630
+EMP1064,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,276400,30300,14710,0,321410,17810
+EMP1065,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,255140,22520,15310,11990,304960,17280
+EMP1066,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,184280,20660,5130,510,210580,12020
+EMP1067,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,271340,35530,2600,9400,318870,17270
+EMP1068,2026,L5 - Senior Manager,Technology,Permanent full-time,980190,153330,155460,13010,1301990,60530
+EMP1069,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,204740,24640,4060,0,233440,13460
+EMP1070,2026,L4 - Manager,Technology,Permanent full-time,493330,65580,61550,7990,628450,31870
+EMP1071,2026,L5 - Senior Manager,People & Culture,Permanent full-time,920340,115320,107450,0,1143110,58040
+EMP1072,2026,L4 - Manager,Operations,Permanent full-time,951210,110120,74160,40590,1176080,55710
+EMP1073,2026,L3 - Professional / Specialist,Finance,Permanent full-time,336070,44300,30740,0,411110,22510
+EMP1074,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1150080,178820,185270,52470,1566640,65730
+EMP1075,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,159800,15220,4400,0,179420,10840
+EMP1076,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,467750,47670,30090,0,545510,28380
+EMP1077,2026,L4 - Manager,Operations,Permanent full-time,670120,82420,95240,0,847780,42470
+EMP1078,2026,L1 - Operational / Entry,Operations,Permanent full-time,141720,17250,3840,0,162810,10090
+EMP1079,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,425780,52330,25340,0,503450,26120
+EMP1080,2026,L4 - Manager,Operations,Permanent full-time,493250,64070,39040,0,596360,30480
+EMP1081,2026,L4 - Manager,Strategy & Legal,Permanent full-time,531210,57810,62570,0,651590,34960
+EMP1082,2026,L3 - Professional / Specialist,Sales & Customer,Permanent part-time,432730,46280,36280,6240,521530,26400
+EMP1083,2026,L4 - Manager,People & Culture,Permanent full-time,554390,74220,56600,11090,696300,36570
+EMP1084,2026,L1 - Operational / Entry,People & Culture,Fixed-term,226130,20080,0,3470,249680,15050
+EMP1085,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,234970,23590,780,0,259340,14790
+EMP1086,2026,L4 - Manager,Technology,Permanent full-time,647100,89440,63290,0,799830,39380
+EMP1087,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,310060,29030,8170,0,347260,19940
+EMP1088,2026,L1 - Operational / Entry,Technology,Permanent part-time,171810,18130,4680,10840,205460,11510
+EMP1089,2026,L3 - Professional / Specialist,Technology,Permanent full-time,620020,57300,22620,3100,703040,37590
+EMP1090,2026,L3 - Professional / Specialist,Operations,Permanent full-time,448670,42210,32340,0,523220,28190
+EMP1091,2026,L3 - Professional / Specialist,Operations,Permanent full-time,383100,42210,17910,0,443220,25660
+EMP1092,2026,L1 - Operational / Entry,Operations,Fixed-term,187210,19780,0,1400,208390,11870
+EMP1093,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,128000,14740,1250,4450,148440,8370
+EMP1094,2026,L4 - Manager,Strategy & Legal,Permanent full-time,730110,100560,67900,13590,912160,46620
+EMP1095,2026,L4 - Manager,Corporate Services,Permanent full-time,857100,134740,82210,22890,1096940,51230
+EMP1096,2026,L3 - Professional / Specialist,Operations,Permanent full-time,329500,48450,26350,3290,407590,22680
+EMP1097,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,178420,16160,8180,1740,204500,12920
+EMP1098,2026,L4 - Manager,Finance,Permanent full-time,756380,110860,64990,10590,942820,44060
+EMP1099,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,228290,25110,6730,2410,262540,14930
+EMP1100,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,341390,39820,32950,0,414160,22680
+EMP1101,2026,L4 - Manager,Technology,Permanent full-time,626240,82180,72230,35230,815880,36430
+EMP1102,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,423640,45520,26720,0,495880,26420
+EMP1103,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,295500,34280,7020,0,336800,19510
+EMP1104,2026,L4 - Manager,Corporate Services,Permanent full-time,518150,57250,68650,23350,667400,35030
+EMP1105,2026,L4 - Manager,Operations,Permanent full-time,564810,52430,59360,0,676600,37480
+EMP1106,2026,L2 - Skilled / Clerical,Finance,Permanent full-time,320130,41410,8060,2600,372200,20990
+EMP1107,2026,L6 - Executive,Strategy & Legal,Permanent full-time,1017870,175000,174590,131520,1498980,65440
+EMP1108,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,350210,49210,21610,0,421030,23120
+EMP1109,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,138620,13730,0,0,152350,9360
+EMP1110,2026,L3 - Professional / Specialist,Technology,Permanent full-time,496860,53720,33560,0,584140,30060
+EMP1111,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,251090,29040,4040,0,284170,16440
+EMP1112,2026,L4 - Manager,People & Culture,Permanent full-time,804950,103680,82290,35900,1026820,46570
+EMP1113,2026,L5 - Senior Manager,Corporate Services,Permanent full-time,1133310,181760,118350,48430,1481850,68450
+EMP1114,2026,L4 - Manager,Finance,Permanent full-time,518910,74410,68150,0,661470,32850
+EMP1115,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,245020,25600,2380,0,273000,15200
+EMP1116,2026,L1 - Operational / Entry,Operations,Permanent full-time,147960,15970,6910,1100,171940,10160
+EMP1117,2026,L6 - Executive,Corporate Services,Permanent full-time,2746150,425120,522610,340370,4034250,159690
+EMP1118,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,254870,28540,11080,0,294490,17060
+EMP1119,2026,L3 - Professional / Specialist,Technology,Fixed-term,365180,40590,34210,12620,452600,23940
+EMP1120,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,253360,27880,14860,0,296100,17350
+EMP1121,2026,L5 - Senior Manager,Operations,Permanent full-time,915510,115630,134160,57570,1222870,58900
+EMP1122,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,142930,13590,520,10,157050,9270
+EMP1123,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,235810,28870,14770,4600,284050,14550
+EMP1124,2026,L5 - Senior Manager,People & Culture,Permanent full-time,1565280,208390,213700,53670,2041040,89410
+EMP1125,2026,L1 - Operational / Entry,Sales & Customer,Fixed-term,192820,21600,8470,0,222890,12970
+EMP1126,2026,L1 - Operational / Entry,Operations,Permanent full-time,231050,18350,1430,4280,255110,14050
+EMP1127,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,235530,30690,3460,5540,275220,15360
+EMP1128,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,292960,27410,11030,0,331400,18810
+EMP1129,2026,L6 - Executive,Technology,Permanent full-time,2434010,332750,407160,313540,3487460,134370
+EMP1130,2026,L7 - Executive Leadership,Strategy & Legal,Permanent full-time,5176420,650810,1078480,946820,7852530,299170
+EMP1131,2026,L4 - Manager,Operations,Permanent full-time,794640,105540,81210,9760,991150,47900
+EMP1132,2026,L4 - Manager,People & Culture,Permanent full-time,463650,58680,40640,110,563080,29370
+EMP1133,2026,L3 - Professional / Specialist,Operations,Permanent full-time,507280,59570,31530,6440,604820,30800
+EMP1134,2026,L4 - Manager,Corporate Services,Permanent full-time,761660,91050,67570,22630,942910,45150
+EMP1135,2026,L3 - Professional / Specialist,Technology,Permanent full-time,426650,51990,21990,0,500630,25520
+EMP1136,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,297800,30110,1030,12540,341480,18120
+EMP1137,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,343800,34790,0,4750,383340,21420
+EMP1138,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,291370,30710,20690,0,342770,18670
+EMP1139,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,466990,63130,20600,0,550720,28360
+EMP1140,2026,L2 - Skilled / Clerical,Sales & Customer,Fixed-term,248320,32460,3820,0,284600,15490
+EMP1141,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,230050,29470,14060,10440,284020,14580
+EMP1142,2026,L6 - Executive,Strategy & Legal,Permanent full-time,2014800,271280,449060,258600,2993740,121510
+EMP1143,2026,L5 - Senior Manager,Operations,Permanent full-time,980450,147010,156220,57150,1340830,60710
+EMP1144,2026,L5 - Senior Manager,Sales & Customer,Permanent full-time,1012830,154260,165930,49100,1382120,65360
+EMP1145,2026,L4 - Manager,Operations,Permanent full-time,673680,101970,102190,5810,883650,43800
+EMP1146,2026,L5 - Senior Manager,Operations,Permanent full-time,985620,115320,143050,7020,1251010,61380
+EMP1147,2026,L1 - Operational / Entry,Operations,Permanent full-time,179510,15490,4020,2820,201840,12020
+EMP1148,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,284930,26600,3680,7110,322320,18700
+EMP1149,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,504870,57440,21960,0,584270,32430
+EMP1150,2026,L1 - Operational / Entry,Operations,Permanent full-time,144870,14020,0,800,159690,9430
+EMP1151,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,315990,30620,3590,8070,358270,20070
+EMP1152,2026,L1 - Operational / Entry,Operations,Permanent full-time,202800,18370,0,4990,226160,13260
+EMP1153,2026,L3 - Professional / Specialist,Technology,Permanent full-time,456870,66320,34570,16450,574210,29060
+EMP1154,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,214840,25540,1680,6130,248190,14510
+EMP1155,2026,L6 - Executive,Technology,Permanent full-time,2088500,334150,322510,230210,2975370,122490
+EMP1156,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,298790,35860,0,0,334650,18940
+EMP1157,2026,L3 - Professional / Specialist,Strategy & Legal,Permanent full-time,587280,81300,55030,15990,739600,37590
+EMP1158,2026,L2 - Skilled / Clerical,Strategy & Legal,Permanent full-time,251900,36750,21840,1280,311770,17230
+EMP1159,2026,L3 - Professional / Specialist,Sales & Customer,Permanent full-time,386790,49110,15590,2410,453900,23490
+EMP1160,2026,L6 - Executive,Finance,Permanent full-time,2594240,335320,495020,216320,3640900,144580
+EMP1161,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,257900,32360,5670,2900,298830,16710
+EMP1162,2026,L4 - Manager,Sales & Customer,Permanent full-time,742340,79140,71410,0,892890,44450
+EMP1163,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,308390,32130,6610,0,347130,19070
+EMP1164,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1003200,161980,173130,61680,1399990,62860
+EMP1165,2026,L1 - Operational / Entry,Operations,Permanent full-time,178800,23470,1860,8130,212260,11810
+EMP1166,2026,L1 - Operational / Entry,Operations,Permanent full-time,198030,19500,4870,0,222400,12980
+EMP1167,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,331160,44090,21460,12090,408800,23280
+EMP1168,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,343810,39510,24370,12430,420120,23300
+EMP1169,2026,L1 - Operational / Entry,Operations,Permanent full-time,212400,24590,1480,0,238470,13380
+EMP1170,2026,L4 - Manager,Strategy & Legal,Permanent full-time,994130,129770,70270,28930,1223100,57590
+EMP1171,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,331220,35740,22840,8460,398260,22450
+EMP1172,2026,L3 - Professional / Specialist,Technology,Permanent full-time,429700,38950,9670,0,478320,24940
+EMP1173,2026,L4 - Manager,Sales & Customer,Permanent full-time,939280,101250,100010,13200,1153740,55690
+EMP1174,2026,L4 - Manager,Sales & Customer,Permanent full-time,635090,78340,66880,26890,807200,38300
+EMP1175,2026,L3 - Professional / Specialist,Operations,Permanent full-time,408580,50190,17620,0,476390,24920
+EMP1176,2026,L1 - Operational / Entry,Operations,Permanent full-time,164480,16450,800,0,181730,11280
+EMP1177,2026,L2 - Skilled / Clerical,People & Culture,Permanent full-time,286090,29510,3230,0,318830,18230
+EMP1178,2026,L1 - Operational / Entry,Operations,Learner,179060,21500,0,5990,206550,12030
+EMP1179,2026,L1 - Operational / Entry,Sales & Customer,Permanent part-time,139280,15540,2280,2590,159690,9190
+EMP1180,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,330720,40620,19300,0,390640,22070
+EMP1181,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,347800,42910,6770,360,397840,21740
+EMP1182,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1827930,245450,234940,124030,2432350,112920
+EMP1183,2026,L2 - Skilled / Clerical,Operations,Permanent full-time,330830,30710,0,3370,364910,20660
+EMP1184,2026,L5 - Senior Manager,Strategy & Legal,Permanent full-time,1142040,171720,161270,69480,1544510,65310
+EMP1185,2026,L1 - Operational / Entry,Operations,Permanent full-time,199590,15730,0,700,216020,13190
+EMP1186,2026,L4 - Manager,People & Culture,Permanent full-time,547420,69440,61640,0,678500,35460
+EMP1187,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,274290,28660,11170,0,314120,17710
+EMP1188,2026,L1 - Operational / Entry,Operations,Permanent full-time,146680,14280,4510,6970,172440,9650
+EMP1189,2026,L2 - Skilled / Clerical,Corporate Services,Permanent full-time,287680,36510,0,0,324190,18200
+EMP1190,2026,L5 - Senior Manager,Technology,Permanent full-time,830540,120100,104530,14260,1069430,50290
+EMP1191,2026,L3 - Professional / Specialist,People & Culture,Permanent full-time,451360,54360,23310,0,529030,28430
+EMP1192,2026,L1 - Operational / Entry,Sales & Customer,Permanent full-time,183990,14650,0,0,198640,12120
+EMP1193,2026,L2 - Skilled / Clerical,Technology,Permanent full-time,253470,21980,10370,2260,288080,16260
+EMP1194,2026,L1 - Operational / Entry,Corporate Services,Permanent full-time,192220,22040,0,0,214260,13070
+EMP1195,2026,L4 - Manager,Sales & Customer,Permanent full-time,558210,62490,61980,0,682680,34400
+EMP1196,2026,L1 - Operational / Entry,Finance,Permanent full-time,137060,13790,0,1090,151940,9180
+EMP1197,2026,L4 - Manager,Corporate Services,Permanent full-time,630150,102180,62180,0,794510,39860
+EMP1198,2026,L2 - Skilled / Clerical,Sales & Customer,Permanent full-time,293730,33340,3950,0,331020,19200
+EMP1199,2026,L3 - Professional / Specialist,Corporate Services,Permanent full-time,394630,51470,34070,0,480170,24730
+EMP1200,2026,L4 - Manager,Technology,Permanent full-time,923830,128140,113870,1220,1167060,56520
