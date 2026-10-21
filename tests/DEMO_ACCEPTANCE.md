@@ -1,6 +1,6 @@
 # Demo Day HTML — browser acceptance and external review gate
 
-**Status: PARTIALLY VERIFIED — owner completed functional Chrome acceptance on the supplied demo CSV; five polish fixes implemented and post-fix visual retest PENDING. GitHub Pages must remain disabled.**
+**Status: PARTIALLY VERIFIED — owner confirmed function in Chrome and identified two remaining chart-layout issues at the prior commit. These plus an expanded upload introduction have been implemented; new visual retest PENDING. GitHub Pages must remain disabled.**
 
 Branch: `demo-day-html`. Use a local static server from repository root: `python3 -m http.server 8000 --directory docs`, then visit `http://localhost:8000/`. This deliberately exercises the actual static HTML and relative CSV download URL.
 
@@ -44,5 +44,19 @@ The owner reported five presentation findings only. Changes committed on the exi
 **Regression evidence:** 32 direct checks executed against the production JavaScript in `docs/index.html` and the committed 1,200-row CSV — **32 passed, 0 failed**. No numerical logic was changed. The runnable Node `node --test tests/test_prototype.mjs` command was not independently run in the owner's local checkout in this turn.
 
 **Still not verified:** WEB-01/03/11–16 in detail, independent observers, and all five post-fix visual checks. Passing production JS/static checks does not establish browser acceptance or projector legibility.
+
+## 21 October 2026 — second visual retest and new presentation fixes
+
+**Owner-observed Chrome result for prior commit `893db1d8706ce42eeec76aac445cf96ab22a11b9`:** calculation logic remained correct. The job-level median chart still underused its card despite previous compact-height changes, and the shared pay-position curve's rotated **Annual total remuneration (ZAR)** title overlapped currency tick labels in both Overview and Explore. These are visual observations from the owner, not assistant browser verification.
+
+**Fixes in `docs/index.html` (presentation only):**
+
+- Job-level chart: increased usable plot share via a compact width of 560 SVG units and a smaller left gutter; thicker 32-unit bars and larger value/row labels; retained row spacing. The business-unit chart stays on the original 900-unit layout and 23-unit bars.
+- Shared `payCurve()`: moved the plot origin from x=78 to x=185, tick labels to x=l−14, and the rotated axis title to x=28; this affects both Overview and Explore without shrinking labels.
+- Upload: replaced the short introduction with **PayGap Navigator — From disclosure to understanding and action**, added a compact four-stage overview and a decision-support boundary statement; kept upload and demo dataset download together immediately below.
+
+**Automated evidence:** 34 direct assertions against production JavaScript extracted from the branch HTML and the supplied CSV **passed, 0 failed**. This includes existing baseline, simulation, Living Wage reference figures, CSV validation, rendering of all four screens and specific SVG/landing markup. The previously existing calculation routines and simulator are unchanged. These structural checks do **not** establish visual non-overlap in Chrome.
+
+**New post-fix Chrome visual acceptance remains PENDING** for: the job-level chart's real available plot weight versus the composition panel; tick/title separation on both pay-position curves; upload-page readability and immediate visibility of both primary actions on laptop/projector/mobile. Retest these before release. GitHub Pages remains disabled.
 
 **Release gate:** No test should be marked PASS without actual observation. Resolve any blocking issue, rerun affected checks, document tested Git commit, then request approval to enable GitHub Pages. `main` and Streamlit URL remain untouched.
