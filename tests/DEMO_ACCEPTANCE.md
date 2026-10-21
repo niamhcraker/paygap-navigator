@@ -1,6 +1,6 @@
 # Demo Day HTML — browser acceptance and external review gate
 
-**Status: PARTIALLY VERIFIED — owner confirmed function in Chrome and identified two remaining chart-layout issues at the prior commit. These plus an expanded upload introduction have been implemented; new visual retest PENDING. GitHub Pages must remain disabled.**
+**Status: PARTIALLY VERIFIED — owner retested the previous landing page in Chrome and requested a lighter hierarchy. Updated introduction and terminology committed; final Chrome visual retest remains PENDING. GitHub Pages remains disabled.**
 
 Branch: `demo-day-html`. Use a local static server from repository root: `python3 -m http.server 8000 --directory docs`, then visit `http://localhost:8000/`. This deliberately exercises the actual static HTML and relative CSV download URL.
 
@@ -58,5 +58,20 @@ The owner reported five presentation findings only. Changes committed on the exi
 **Automated evidence:** 34 direct assertions against production JavaScript extracted from the branch HTML and the supplied CSV **passed, 0 failed**. This includes existing baseline, simulation, Living Wage reference figures, CSV validation, rendering of all four screens and specific SVG/landing markup. The previously existing calculation routines and simulator are unchanged. These structural checks do **not** establish visual non-overlap in Chrome.
 
 **New post-fix Chrome visual acceptance remains PENDING** for: the job-level chart's real available plot weight versus the composition panel; tick/title separation on both pay-position curves; upload-page readability and immediate visibility of both primary actions on laptop/projector/mobile. Retest these before release. GitHub Pages remains disabled.
+
+## 21 October 2026 — landing-page hierarchy and navigation retest
+
+**Owner-observed finding:** The revised landing introduction was informative but too dense before reaching upload actions. The prior four large stage cards and separate boundary banner made the first screen feel information-heavy.
+
+**Changes applied, presentation/navigation only:**
+- Consolidated the **PayGap Navigator** name, **From disclosure to understanding and action** tagline, concise commencement context (22 May 2026; sections 30A/30B), focused practitioner description and small decision-support boundary into one introductory block. The legal context is not a compliance claim.
+- Replaced four large cards with a compact connected **How it works** journey: **01 Understand → 02 Diagnose → 03 Explore → 04 Living Wage**, with brief descriptors and muted-plum **Separate lens** styling on Living Wage.
+- Kept the CSV upload and **Download demo dataset** immediately below the journey.
+- Renamed the visible sidebar label **01 Overview** to **01 Understand** (internal route still `overview`). Changed its page heading to **Understand your remuneration structure**.
+- Preserved the job-level compact bar chart's expanded plotting area and the shared `payCurve()` y-axis gutters identically, without recalculating or changing either chart's values.
+
+**Regression evidence:** 42 direct production-JavaScript assertions against the committed `docs/index.html` and `docs/sample_remuneration.csv` — **42 passed, 0 failed**. Validated CSV, original 26.3184:1 annual ratio, 22.9081:1 +20/−10 scenario, R−3,442,814 annual impact, all full-time Living Wage reference values, input blocking, all four rendered views, compact chart and shared-axis markup, and upload/download/journey presence. Calculation code and both chart functions were compared byte-for-byte with the previously committed version and were unchanged.
+
+**Final Chrome visual retesting PENDING:** introductory block hierarchy and density; journey arrows and separate Living Wage cue; upload/download visibility on laptop and projector; sidebar and Understand screen copy; job-level chart visual balance; currency tick/rotated-title separation in both pay-position charts. Existing owner-observed functional test outcomes remain valid; these latest changes have not been visually rechecked by the owner. Unobserved checklist cases remain unclaimed.
 
 **Release gate:** No test should be marked PASS without actual observation. Resolve any blocking issue, rerun affected checks, document tested Git commit, then request approval to enable GitHub Pages. `main` and Streamlit URL remain untouched.
