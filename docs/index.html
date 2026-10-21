@@ -196,21 +196,22 @@ function histSVG(values,limit,markers,mode='annual'){
  return {html:svgWrap(out,w,h,'Histogram of '+mode+' earnings; '+commas(excluded)+' observations outside shown range'),excluded};
 }
 function payCurve(before,after=null){
- const w=900,h=325,l=78,r=22,t=25,b=56,pw=w-l-r,ph=h-t-b;let upper=Math.max(before.max,after?after.max:0)*1.04;
+ // Separate the rotated axis title, currency ticks and plot into distinct horizontal zones.
+ const w=900,h=325,l=185,r=22,t=25,b=56,pw=w-l-r,ph=h-t-b;let upper=Math.max(before.max,after?after.max:0)*1.04;
  const y=v=>t+ph-v/upper*ph,x=i=>l+(i/(before.n-1))*pw;
  let out='<rect x="'+l+'" y="'+t+'" width="'+(pw*.05)+'" height="'+ph+'" fill="'+C.light+'"/><rect x="'+(l+pw*.95)+'" y="'+t+'" width="'+(pw*.05)+'" height="'+ph+'" fill="#f6ece0"/>';
- for(let i=0;i<=4;i++){let yy=t+ph*i/4;out+='<line x1="'+l+'" x2="'+(w-r)+'" y1="'+yy+'" y2="'+yy+'" stroke="'+C.line+'" stroke-dasharray="4 4"/><text x="'+(l-9)+'" y="'+(yy+4)+'" text-anchor="end" font-size="12" fill="'+C.muted+'">'+esc(money(upper*(1-i/4)))+'</text>'}
+ for(let i=0;i<=4;i++){let yy=t+ph*i/4;out+='<line x1="'+l+'" x2="'+(w-r)+'" y1="'+yy+'" y2="'+yy+'" stroke="'+C.line+'" stroke-dasharray="4 4"/><text x="'+(l-14)+'" y="'+(yy+4)+'" text-anchor="end" font-size="12" fill="'+C.muted+'">'+esc(money(upper*(1-i/4)))+'</text>'}
  [0,5,25,50,75,95,100].forEach(p=>{let xx=l+pw*p/100;out+='<text x="'+xx+'" y="'+(h-32)+'" font-size="11" text-anchor="middle" fill="'+C.muted+'">'+p+'%</text>'});
  const path=s=>'M'+s.values.map((v,i)=>x(i).toFixed(2)+','+y(v).toFixed(2)).join(' L');
  out+='<path d="'+path(before)+'" stroke="'+C.teal+'" stroke-width="2.3" fill="none"/>';
  if(after)out+='<path d="'+path(after)+'" stroke="'+C.amber+'" stroke-width="2.5" fill="none" stroke-dasharray="7 4"/>';
  [5,95].forEach(p=>{let xx=l+pw*p/100;out+='<line x1="'+xx+'" x2="'+xx+'" y1="'+t+'" y2="'+(t+ph)+'" stroke="'+C.muted+'" stroke-dasharray="3 5"/>'});
- out+='<text x="'+(l+pw/2)+'" y="'+(h-4)+'" font-size="12" text-anchor="middle" fill="'+C.muted+'">Ordered workforce percentile (lowest to highest)</text><text transform="translate(18,'+(t+ph/2)+') rotate(-90)" font-size="12" text-anchor="middle" fill="'+C.muted+'">Annual total remuneration (ZAR)</text>';
+ out+='<text x="'+(l+pw/2)+'" y="'+(h-4)+'" font-size="12" text-anchor="middle" fill="'+C.muted+'">Ordered workforce percentile (lowest to highest)</text><text transform="translate(28,'+(t+ph/2)+') rotate(-90)" font-size="12" text-anchor="middle" fill="'+C.muted+'">Annual total remuneration (ZAR)</text>';
  return svgWrap(out,w,h,'Ordered annual remuneration: original '+(after?'and simulated ':'')+'workforce distribution');
 }
-function barSVG(data,labelFn,compact=false){const w=compact?650:900,l=compact?138:210,r=compact?82:110,t=25,rowH=compact?53:43,b=62,h=t+data.length*rowH+b,pw=w-l-r;let upper=ticks(Math.max(1,...data.map(d=>d.median))).max;
+function barSVG(data,labelFn,compact=false){const w=compact?560:900,l=compact?68:210,r=compact?74:110,t=25,rowH=compact?56:43,b=62,h=t+data.length*rowH+b,pw=w-l-r;let upper=ticks(Math.max(1,...data.map(d=>d.median))).max;
  let out='';for(let i=0;i<=4;i++){let px=l+pw*i/4;out+='<line x1="'+px+'" y1="'+t+'" x2="'+px+'" y2="'+(h-b+4)+'" stroke="'+C.line+'" stroke-dasharray="3 5"/><text x="'+px+'" y="'+(h-30)+'" font-size="11" text-anchor="middle" fill="'+C.muted+'">'+esc(money(upper*i/4))+'</text>'}
- data.forEach((d,i)=>{let y=t+i*rowH+6,bw=d.median/upper*pw;out+='<text x="'+(l-12)+'" y="'+(y+15)+'" text-anchor="end" font-size="12" fill="'+C.ink+'">'+esc(labelFn(d))+'</text><rect x="'+l+'" y="'+y+'" rx="3" width="'+Math.max(0,bw)+'" height="23" fill="'+(i%2?C.blue:C.teal)+'">'+svgTitle(d.name+': median '+exact(d.median))+'</rect><text x="'+(l+bw+8)+'" y="'+(y+16)+'" font-size="11" fill="'+C.ink+'">'+esc(money(d.median))+'</text>'});
+ data.forEach((d,i)=>{let y=t+i*rowH+(compact?10:6),bw=d.median/upper*pw;out+='<text x="'+(l-12)+'" y="'+(y+(compact?21:15))+'" text-anchor="end" font-size="'+(compact?14:12)+'" fill="'+C.ink+'">'+esc(labelFn(d))+'</text><rect x="'+l+'" y="'+y+'" rx="3" width="'+Math.max(0,bw)+'" height="'+(compact?32:23)+'" fill="'+(i%2?C.blue:C.teal)+'">'+svgTitle(d.name+': median '+exact(d.median))+'</rect><text x="'+(l+bw+8)+'" y="'+(y+(compact?21:16))+'" font-size="'+(compact?13:11)+'" fill="'+C.ink+'">'+esc(money(d.median))+'</text>'});
  out+='<text x="'+(l+pw/2)+'" y="'+(h-5)+'" text-anchor="middle" font-size="12" fill="'+C.muted+'">Median annual total remuneration (ZAR)</text>';
  return svgWrap(out,w,h,'Median annual total remuneration by '+(data===undefined?'group':'organisational group'));
 }
