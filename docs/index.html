@@ -37,22 +37,33 @@
 @media(max-width:1020px){.living-lens .living-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.living-lens .living-kpis .kpi:last-child{grid-column:1 / -1}}
 @media(max-width:680px){.living-lens .living-kpis{grid-template-columns:1fr}.living-lens .living-kpis .kpi:last-child{grid-column:auto}.living-lens .living-kpis .kpi .value{font-size:24px}}
 
-/* Compact reviewer orientation, retaining upload and demo access on the landing view. */
-.upload-wrap{margin-top:22px}.upload-intro h1{margin-top:6px}
-.upload-tagline{font-size:19px;font-weight:700;color:var(--teal);margin-top:3px}
-.upload-intro .upload-description{max-width:890px;font-size:14px;line-height:1.58;margin-top:10px}
-.stage-overview{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin-top:16px}
-.stage-item{background:#fff;border:1px solid var(--line);border-top:3px solid #87adae;border-radius:8px;padding:11px 12px;min-width:0}
-.stage-item strong{display:block;font-size:12px;color:var(--teal);margin-bottom:4px}
-.stage-item span{display:block;font-size:11px;line-height:1.45;color:var(--muted)}
-.upload-boundary{background:var(--pale);padding:10px 13px;border-radius:7px;font-size:12px;margin-top:12px;line-height:1.5}
-.upload-actions{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(250px,.8fr);gap:13px;align-items:stretch;margin-top:16px}
-.upload-actions .drop{margin-top:0;padding:21px 14px;min-height:195px}.upload-actions .drop-icon{margin-bottom:9px}
+/* Concise landing hierarchy: one introduction, linked analytical journey, accessible upload. */
+.upload-wrap{margin-top:20px}
+.upload-intro h1{margin-top:5px}
+.upload-tagline{font-size:19px;font-weight:700;color:var(--teal);margin-top:2px;line-height:1.35}
+.upload-intro .intro-why{font-size:13px;font-weight:650;line-height:1.5;color:var(--ink);margin-top:12px;max-width:860px}
+.upload-intro .upload-description{max-width:890px;font-size:14px;line-height:1.55;margin-top:9px}
+.upload-intro .intro-boundary{max-width:890px;color:var(--muted);font-size:12px;line-height:1.5;margin-top:9px}
+.upload-intro .intro-boundary strong{color:var(--ink)}
+.intro-source{font-size:11px;font-weight:600;color:var(--teal);white-space:nowrap}
+.journey-heading{font-size:11px;letter-spacing:1.2px;text-transform:uppercase;font-weight:800;color:var(--muted);margin-top:16px;margin-bottom:7px}
+.journey-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:19px;align-items:start}
+.journey-step{position:relative;min-width:0;padding-left:10px;border-left:2px solid #cadbda}
+.journey-step:not(:last-child)::after{content:"→";position:absolute;right:-17px;top:0;color:#688c8e;font-size:18px;line-height:1}
+.journey-name{display:block;font-size:12px;font-weight:800;color:var(--teal)}
+.journey-detail{display:block;font-size:11px;line-height:1.4;color:var(--muted);margin-top:2px}
+.journey-step.separate{border-left-color:#bdaac8}
+.journey-step.separate .journey-name{color:#765987}
+.separate-note{display:inline-block;font-size:10px;color:#765987;font-weight:700;margin-left:4px}
+.upload-actions{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(250px,.8fr);gap:13px;align-items:stretch;margin-top:15px}
+.upload-actions .drop{margin-top:0;padding:21px 14px;min-height:195px}
+.upload-actions .drop-icon{margin-bottom:9px}
 .upload-actions .demo-action{display:flex;flex-direction:column;justify-content:center;gap:12px;padding:17px 19px;margin-top:0}
 .upload-actions .demo-action .btn{align-self:flex-start;text-decoration:none}
 .upload-actions .demo-action details{margin-top:0}
-@media(max-width:970px){.stage-overview{grid-template-columns:repeat(2,minmax(0,1fr))}.upload-actions{grid-template-columns:1fr}.upload-actions .drop{min-height:0}}
-@media(max-width:520px){.stage-overview{grid-template-columns:1fr}.upload-intro .upload-description{font-size:13px}}
+@media(max-width:970px){.upload-actions{grid-template-columns:1fr}.upload-actions .drop{min-height:0}}
+@media(max-width:740px){.journey-flow{display:flex;gap:20px;overflow-x:auto;padding-bottom:5px}.journey-step{flex:0 0 170px}.journey-step:not(:last-child)::after{right:-17px}}
+@media(max-width:520px){.upload-intro .upload-description{font-size:13px}.upload-tagline{font-size:17px}}
 </style>
 </head>
 <body>
@@ -60,7 +71,7 @@
 <aside class="sidebar">
   <div class="brand"><div class="brandmark" aria-hidden="true">↗</div><div><div class="brandname">PayGap<br>Navigator</div><div class="brandsub">Remuneration intelligence</div></div></div>
   <div class="side-section"><div class="caps" style="margin:0 0 12px 13px">Workspace</div><nav class="nav" aria-label="Main navigation">
-    <button data-view="overview" disabled><span class="nav-num">01</span> Overview</button>
+    <button data-view="overview" disabled><span class="nav-num">01</span> Understand</button>
     <button data-view="diagnose" disabled><span class="nav-num">02</span> Diagnose</button>
     <button data-view="explore" disabled><span class="nav-num">03</span> Explore</button><button data-view="living" disabled><span class="nav-num">04</span> Living Wage</button>
   </nav></div>
@@ -185,9 +196,8 @@ function kpi(label,value,detail,variant=''){return '<div class="kpi '+variant+'"
 function gridMetrics(entries){return '<div class="metric-list">'+entries.map(([k,v])=>'<div><span>'+k+'</span><b>'+v+'</b></div>').join('')+'</div>'}
 function disclaimer(){return '<div class="disclaimer"><p><strong>Responsible use.</strong> This prototype is designed for synthetic or appropriately de-identified remuneration data. CSV contents are processed in your browser tab; this code does not send employee rows to a server or permanently store them. Browser and hosting-provider logging or telemetry may be separate.</p><p>A lower vertical pay-gap ratio is not automatically evidence of a fair remuneration system. A statistical outlier is an unusual value, not evidence that remuneration is unjustified or unfair.</p><p>The living-wage lens and Section 30B ratio use different remuneration measures and are therefore interpreted separately.</p></div>'}
 function uploadScreen(result=null,file=''){
- let body='<div class="upload-wrap"><div class="upload-intro"><div class="eyebrow">Reward &amp; remuneration · South Africa</div><h1>PayGap Navigator</h1><p class="upload-tagline">From disclosure to understanding and action</p><p class="muted upload-description">PayGap Navigator is a remuneration decision-support tool for South African reward and remuneration practitioners. It helps practitioners move beyond a single vertical pay-gap ratio by turning de-identified employee remuneration data into an interactive view of the organisation’s remuneration structure, its underlying drivers, and the mathematical implications of hypothetical remuneration changes.</p></div>';
- body+='<div class="stage-overview" aria-label="Four analytical stages"><div class="stage-item"><strong>01 · Understand</strong><span>Section 30B-relevant ratio, distribution, percentiles and upper/lower pay tails.</span></div><div class="stage-item"><strong>02 · Diagnose</strong><span>Compare job levels, business units and remuneration components.</span></div><div class="stage-item"><strong>03 · Explore</strong><span>Test lower-tail guaranteed pay and upper-tail variable pay; inspect ratio, structure and annual impact.</span></div><div class="stage-item"><strong>04 · Living Wage</strong><span>Compare monthly net earnings with the separate 2026 Living Wage South Africa benchmark.</span></div></div>';
- body+='<p class="upload-boundary"><strong>Decision support, not a fairness score.</strong> PayGap Navigator does not determine a fair pay gap, recommend a target ratio or provide legal advice.</p>';
+ let body='<div class="upload-wrap"><div class="upload-intro"><div class="eyebrow">Reward &amp; remuneration · South Africa</div><h1>PayGap Navigator</h1><p class="upload-tagline">From disclosure to understanding and action</p><p class="intro-why">New remuneration transparency requirements came into operation in South Africa on 22 May 2026 under sections 30A and 30B of the Companies Act. <a class="intro-source" href="https://www.cipc.co.za/?p=24399" target="_blank" rel="noopener noreferrer">CIPC source ↗</a></p><p class="muted upload-description">PayGap Navigator is a remuneration decision-support tool for South African reward and remuneration practitioners. It transforms de-identified employee remuneration data into an interactive view of the organisation’s pay structure, its underlying drivers and the mathematical implications of hypothetical remuneration changes.</p><p class="intro-boundary"><strong>Decision support, not a fairness score.</strong> PayGap Navigator does not determine what constitutes a fair pay gap, recommend a target ratio or provide legal advice.</p></div>';
+ body+='<div class="journey-heading">How it works</div><div class="journey-flow" aria-label="Four analytical stages"><div class="journey-step"><span class="journey-name">01 Understand</span><span class="journey-detail">See the remuneration structure</span></div><div class="journey-step"><span class="journey-name">02 Diagnose</span><span class="journey-detail">Explore what sits behind it</span></div><div class="journey-step"><span class="journey-name">03 Explore</span><span class="journey-detail">Test remuneration scenarios</span></div><div class="journey-step separate"><span class="journey-name">04 Living Wage <span class="separate-note">Separate lens</span></span><span class="journey-detail">Examine a separate net-earnings lens</span></div></div>';
  body+='<div class="upload-actions"><div class="drop" tabindex="0" role="button" aria-label="Select or drop a CSV file"><div class="drop-icon">⇧</div><h2>Drop your remuneration CSV here</h2><p class="muted" style="margin-top:5px">Or choose a file from your device · CSV only</p><button class="btn" type="button" id="chooseFile">Choose CSV file</button><div class="mini-note">Processed only in this tab · No upload · Nothing saved</div></div>';
  body+='<section class="panel demo-action"><div><strong>Explore with demonstration data</strong><p class="mini-note">Download the supplied 1,200-row synthetic dataset, then upload it above.</p></div><a class="btn" href="sample_remuneration.csv" download="PayGap_Navigator_Demo_Data.csv" style="text-decoration:none;display:inline-block">↓ Download demo dataset</a></div><details style="margin-top:14px"><summary style="cursor:pointer;font-weight:750">View required CSV columns</summary><p class="mini-note" id="requiredColumns" style="overflow-wrap:anywhere"></p><p class="mini-note">Use these exact 11 headers and full-rand ZAR amounts. Supply one financial year. De-identify data before use; do not upload identifying or confidential payroll exports.</p></details></section></div>';
 
@@ -242,7 +252,7 @@ function distributionPanel(){let s=app.stats,limit=app.histMode==='p95'?s.p95:s.
  return '<section class="panel">'+panelHead('Remuneration distribution','Employee frequency by annual total remuneration; no normal-curve assumption.',opts)+hist.html+'<div class="legend">'+marks.map(m=>'<span><span class="swatch" style="background:'+m.color+'"></span>'+m.label+': <strong>'+money(m.value)+'</strong></span>').join('')+'</div><div class="mini-note">'+(app.histMode==='p95'?'Up-to-P95 view omits '+commas(hist.excluded)+' employees above P95 from the chart only; the top-5% threshold lies beyond this displayed axis. All statistics still use the entire workforce.':'Full-range view includes every employee, including the high-remuneration tail.')+'</div><div class="interpret">'+esc(interpretation)+'</div></section>';
 }
 function overview(){const s=app.stats;let cohortNote=(s.n*.05%1!==0?'Nearest-whole-employee rounding used; prototype assumption, not regulatory guidance.':'Exactly 5% of the workforce in each cohort.');
- let out=titleBlock('01 / Overview','Understand the pay gap','Section 30B-relevant measure: aggregate annual total remuneration of the highest-paid 5% divided by the lowest-paid 5%. This descriptive vertical ratio does not determine fairness or legal compliance and does not use monthly net earnings.','FY '+app.year+' · '+commas(s.n)+' employees');
+ let out=titleBlock('01 / Understand','Understand your remuneration structure','Section 30B-relevant measure: aggregate annual total remuneration of the highest-paid 5% divided by the lowest-paid 5%. This descriptive vertical ratio does not determine fairness or legal compliance and does not use monthly net earnings.','FY '+app.year+' · '+commas(s.n)+' employees');
  out+='<div class="grid kpis">'+kpi('Employees',commas(s.n),'In-scope uploaded rows')+kpi('Vertical pay gap',fmtRatio(s.ratio),'Aggregate top 5% ÷ bottom 5%','amber')+kpi('Median annual pay',money(s.median),exact(s.median),'secondary')+kpi('Mean annual pay',money(s.mean),exact(s.mean),'secondary')+kpi('Bottom 5% aggregate',money(s.bottom),exact(s.bottom),'secondary')+kpi('Top 5% aggregate',money(s.top),exact(s.top),'amber')+'</div>';
  out+='<div class="grid two section">'+distributionPanel()+'<section class="panel">'+panelHead('Workforce distribution snapshot','Selected annual total-remuneration statistics')+gridMetrics([['Lowest',money(s.min)],['P10',money(s.p10)],['P25 / Q1',money(s.p25)],['P50 / median',money(s.p50)],['P75 / Q3',money(s.p75)],['P90',money(s.p90)],['P95',money(s.p95)],['Highest',money(s.max)],['Mean ÷ median',s.meanMedian.toFixed(2)+'×']])+'<div class="interpret"><strong>5% cohort calculation</strong><br>'+commas(s.n5)+' employees per cohort. Top aggregate: '+exact(s.top)+'. Bottom aggregate: '+exact(s.bottom)+'.<br><span class="small">'+cohortNote+'</span></div></section></div>';
  out+='<div class="grid two section"><section class="panel">'+panelHead('Pay-position curve','Individual observations are ordered and displayed as a curve; no employee identities are shown.')+payCurve(s)+'<div class="legend"><span><span class="swatch" style="background:'+C.light+'"></span>Bottom 5% region</span><span><span class="swatch" style="background:#f6ece0"></span>Top 5% region</span><span><span class="swatch" style="background:'+C.teal+'"></span>Current remuneration</span></div></section><section class="panel">'+panelHead('Statistical outlier summary','Exploratory Tukey 1.5 × IQR thresholds')+gridMetrics([['Q1',money(s.p25)],['Q3',money(s.p75)],['IQR',money(s.iqr)],['Lower boundary',money(s.lower)],['Upper boundary',money(s.upper)],['Below / above',s.belowOut+' / '+s.aboveOut]])+'<div class="interpret">'+commas(s.belowOut+s.aboveOut)+' employees fall outside the statistical boundaries. This is a description of the distribution, not a judgement about specific remuneration amounts.</div><div class="caution">A statistical outlier is an unusual value, not evidence that remuneration is unjustified or unfair.</div></section></div>';
