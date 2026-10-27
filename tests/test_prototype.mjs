@@ -106,3 +106,13 @@ test('compact horizontal Gini layout is present',()=>{
   assert.match(html,/gini-chart/);
   assert.match(html,/max-width:760px/);
 });
+
+
+test('responsible-use messaging is scoped to upload and sidebar',()=>{
+  assert.match(html,/id="responsibleSide"/);
+  assert.match(html,/Responsible use/);
+  assert.match(html,/PAYGAP NAVIGATOR · PROTOTYPE V1 · DECISION SUPPORT/);
+  assert.match(html,/Display convention: ratios are shown to two decimal places/);
+  const disclaimerCalls=(html.match(/disclaimer\(\)/g)||[]).length;
+  assert.equal(disclaimerCalls,2);
+});
