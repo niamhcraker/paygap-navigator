@@ -94,3 +94,7 @@ After visual review, the Understand page was adjusted again for clearer grouping
 
 This preserves the original distribution/outlier pairing while giving the whole-distribution Gini/Lorenz analysis greater visual space and prominence.
 
+### Compact Gini panel refinement
+
+After visual review, the Gini/Lorenz section was reduced in visual weight. It now uses a horizontal practitioner-dashboard layout: a prominent Gini metric and concise interpretation on the left, with a capped-width landscape Lorenz curve on the right. The chart is constrained to a maximum width of 760px so it does not dominate the Understand page on wide screens. The pay-position curve and statistical outlier summary remain unchanged above it.
+
