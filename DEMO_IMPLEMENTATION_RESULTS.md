@@ -98,3 +98,15 @@ This preserves the original distribution/outlier pairing while giving the whole-
 
 After visual review, the Gini/Lorenz section was reduced in visual weight. It now uses a horizontal practitioner-dashboard layout: a prominent Gini metric and concise interpretation on the left, with a capped-width landscape Lorenz curve on the right. The chart is constrained to a maximum width of 760px so it does not dominate the Understand page on wide screens. The pay-position curve and statistical outlier summary remain unchanged above it.
 
+### Responsible-use messaging refinement
+
+To reduce repeated visual clutter across analysis screens:
+- the full responsible-use disclaimer is retained on the upload screen only;
+- once a dataset is loaded, a compact **Responsible use** card appears in the sidebar;
+- Understand, Diagnose, Explore and Living Wage no longer repeat the large global disclaimer at the bottom;
+- context-specific cautions remain on the screens where they are analytically relevant;
+- the two-decimal ratio display convention has moved into the Understand cohort-methodology note rather than being treated as a global warning;
+- the footer now reads **PAYGAP NAVIGATOR · PROTOTYPE V1 · DECISION SUPPORT**.
+
+This keeps the ethical and methodological boundaries visible while reducing page density and repetition.
+
