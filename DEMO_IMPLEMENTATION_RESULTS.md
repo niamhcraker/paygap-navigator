@@ -73,3 +73,15 @@ Anton also commented during Demo Day that the tool has real practical relevance 
 
 Regression tests were extended to cover the Gini calculation, +30% cohort turnover, simulated ratio and the new explanatory UI text.
 
+### Lorenz-curve refinement
+
+Following Anton's suggestion to consider an internal Gini coefficient, the Understand screen now includes an **Internal remuneration inequality** panel with:
+- the internal remuneration Gini calculated from the full uploaded annual total-remuneration distribution;
+- a Lorenz curve generated from the same production values;
+- a perfect-equality reference line;
+- an explicit note that the Gini complements, rather than replaces, the Section 30B top/bottom 5% ratio and is not a fairness threshold.
+
+To avoid adding dashboard clutter, the previous large statistical-outlier panel was removed. The Tukey 1.5 × IQR result is retained as a compact exploratory note beneath the remuneration distribution. This preserves the diagnostic information while giving greater visual prominence to the whole-distribution inequality measure suggested during Demo Day.
+
+Automated structural checks were extended to confirm the Lorenz-curve production function, inequality panel labels, perfect-equality reference and continued presence of the compact outlier note.
+
