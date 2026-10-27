@@ -85,3 +85,15 @@ test('UI exposes Gini, cohort-turnover and precision caveats',()=>{
   assert.match(html,/does not prescribe display precision/);
   assert.match(html,/some treated employees may leave the simulated bottom 5%/);
 });
+
+
+test('Lorenz curve is rendered from production remuneration values',()=>{
+  assert.match(html,/function lorenzCurve\(stat\)/);
+  assert.match(html,/Internal remuneration inequality/);
+  assert.match(html,/Observed remuneration distribution/);
+  assert.match(html,/Perfect equality/);
+  assert.match(html,/Whole-distribution lens/);
+  const overview=html.slice(html.indexOf('function overview(){'),html.indexOf('function breakdownTable('));
+  assert.doesNotMatch(overview,/Statistical outlier summary/);
+  assert.match(html,/Exploratory outlier check/);
+});
