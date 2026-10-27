@@ -116,3 +116,14 @@ test('responsible-use messaging is scoped to upload and sidebar',()=>{
   const disclaimerCalls=(html.match(/disclaimer\(\)/g)||[]).length;
   assert.equal(disclaimerCalls,2);
 });
+
+
+test('landing workspace exposes data requirements and assumptions',()=>{
+  assert.match(html,/class="upload-workspace"/);
+  assert.match(html,/What data is required\?/);
+  assert.match(html,/Required CSV columns/);
+  assert.match(html,/Formatting guidance/);
+  assert.match(html,/Input assumptions/);
+  assert.match(html,/annualise partial-year employment/);
+  assert.match(html,/href="sample_remuneration.csv"/);
+});
