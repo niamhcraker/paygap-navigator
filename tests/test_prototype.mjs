@@ -82,7 +82,7 @@ test('internal remuneration Gini and cohort turnover respond to bottom-tail upli
 test('UI exposes Gini, cohort-turnover and precision caveats',()=>{
   assert.match(html,/Internal remuneration Gini/);
   assert.match(html,/Cohort turnover after re-ranking/);
-  assert.match(html,/does not prescribe display precision/);
+  assert.match(html,/Display convention: ratios are shown to two decimal places/);
   assert.match(html,/some treated employees may leave the simulated bottom 5%/);
 });
 
