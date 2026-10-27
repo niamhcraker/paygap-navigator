@@ -98,3 +98,11 @@ test('Lorenz curve is rendered from production remuneration values',()=>{
   assert.match(overview,/Internal remuneration inequality/);
   assert.doesNotMatch(overview,/Exploratory outlier check/);
 });
+
+
+test('compact horizontal Gini layout is present',()=>{
+  assert.match(html,/gini-layout/);
+  assert.match(html,/gini-summary/);
+  assert.match(html,/gini-chart/);
+  assert.match(html,/max-width:760px/);
+});
