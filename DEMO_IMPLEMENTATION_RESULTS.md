@@ -52,3 +52,24 @@
 - Existing `main` and https://paygap-navigator.streamlit.app/ remain unchanged.
 - New HTML files exist only on `demo-day-html`; GitHub Pages **has NOT been enabled**.
 - Follow the release gate in `tests/DEMO_ACCEPTANCE.md`; no Pages publishing until actual local browser checks pass, critical findings are fixed and retested, and the user authorises release.
+
+## 27 October 2026 — post-Demo Day feedback and refinement
+
+Demo Day feedback identified three useful refinement areas:
+
+1. **Cohort-boundary behaviour in the simulator.** A question from Tristan highlighted that, when the original bottom 5% receives an uplift, treated employees can move above the post-simulation bottom-5% threshold and previously untreated employees can enter the newly re-ranked bottom cohort. The production simulator was already re-ranking the full workforce correctly, but this turnover was not visible to the user.
+   - The Explore screen now states this explicitly beneath the bottom-tail control.
+   - It also reports cohort turnover after re-ranking.
+   - On the supplied 1,200-row synthetic dataset with a +30% bottom-tail guaranteed-pay uplift, 20 of the original 60 bottom-5% employees remain in the simulated bottom 5%; 40 move out and 40 previously outside the cohort enter it. The simulated ratio is approximately 22.78495:1.
+
+2. **Whole-distribution inequality measure.** Anton suggested considering an internal Gini coefficient. A deterministic Gini calculation has been added as a complementary descriptive measure, not as a fairness score.
+   - Supplied dataset baseline internal remuneration Gini: 0.4790855.
+   - +30% bottom-tail uplift simulated Gini: 0.4753589.
+   - The app explicitly notes that the Gini uses the full annual total-remuneration distribution and may move differently from the tail-focused top/bottom 5% ratio.
+
+3. **Displayed ratio precision.** The app continues to display ratios to two decimal places, but now labels this as a prototype presentation choice and states that calculations retain full internal precision. The display rule is not represented as a Section 30B legal requirement.
+
+Anton also commented during Demo Day that the tool has real practical relevance to addressing inequality in South Africa. This is recorded as expert/lecturer feedback on the problem's practical relevance, while further practitioner testing remains necessary before making claims about real-world effectiveness.
+
+Regression tests were extended to cover the Gini calculation, +30% cohort turnover, simulated ratio and the new explanatory UI text.
+
