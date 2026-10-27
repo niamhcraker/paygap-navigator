@@ -64,3 +64,24 @@ test('four screens and HTML demonstration download are present',()=>{
  const explore=html.slice(html.indexOf('function explore(){'),html.indexOf('function render(){'));
  assert.doesNotMatch(explore,/livingPanel\(\)/);
 });
+
+
+test('internal remuneration Gini and cohort turnover respond to bottom-tail uplift',()=>{
+  app.rows=rows;app.stats=analyse(rows);app.bottom=0;app.top=0;
+  approx(app.stats.gini,0.4790855353254315,1e-12);
+  app.bottom=30;const result=scenario();
+  approx(result.stat.gini,0.4753588922046952,1e-12);
+  assert.equal(result.bottomTurnover.original,60);
+  assert.equal(result.bottomTurnover.remain,20);
+  assert.equal(result.bottomTurnover.movedOut,40);
+  assert.equal(result.bottomTurnover.movedIn,40);
+  approx(result.stat.ratio,22.784947448462674,1e-12);
+  app.bottom=0;app.top=0;
+});
+
+test('UI exposes Gini, cohort-turnover and precision caveats',()=>{
+  assert.match(html,/Internal remuneration Gini/);
+  assert.match(html,/Cohort turnover after re-ranking/);
+  assert.match(html,/does not prescribe display precision/);
+  assert.match(html,/some treated employees may leave the simulated bottom 5%/);
+});
