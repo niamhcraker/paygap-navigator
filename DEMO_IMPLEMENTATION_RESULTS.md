@@ -85,3 +85,12 @@ To avoid adding dashboard clutter, the previous large statistical-outlier panel 
 
 Automated structural checks were extended to confirm the Lorenz-curve production function, inequality panel labels, perfect-equality reference and continued presence of the compact outlier note.
 
+### Final Understand layout refinement
+
+After visual review, the Understand page was adjusted again for clearer grouping:
+- **Pay-position curve** and the full **Statistical outlier summary** are restored side by side.
+- **Internal remuneration inequality** now appears as a separate full-width panel beneath them, containing the Gini value and Lorenz curve.
+- The temporary compact outlier note beneath the remuneration-distribution histogram was removed to avoid duplication.
+
+This preserves the original distribution/outlier pairing while giving the whole-distribution Gini/Lorenz analysis greater visual space and prominence.
+
