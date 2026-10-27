@@ -43,3 +43,12 @@ This version is self-contained, with local JavaScript CSV parsing in the user's 
 ## Deployment strategy
 
 Existing `main` branch and [Streamlit demo](https://paygap-navigator.streamlit.app/) remain unchanged. Once **all local and manual acceptance checks are complete**, enable GitHub Pages from the **`demo-day-html`** branch's **`/docs`** folder; do not merge. Anticipated Pages URL: https://niamhcraker.github.io/paygap-navigator/ (not active until separately verified). Record published SHA and test in clean browser. Application must remain available through 13 November 2026 for assignment review.
+
+## Post-Demo Day refinement
+
+Following Demo Day feedback, Explore now makes **cohort turnover after re-ranking** explicit. Scenario adjustments still apply to the original baseline tail cohorts, after which the full workforce is re-ranked. The simulated bottom 5% may therefore contain different employees from the baseline bottom 5%.
+
+The application also reports an **internal remuneration Gini coefficient** calculated from the full uploaded annual total-remuneration distribution. It is a complementary descriptive inequality measure, not a fairness judgement and not a substitute for the Section 30B-relevant top/bottom 5% ratio.
+
+Ratios are displayed to two decimal places as a presentation convention. Calculations retain full internal precision; the app does not represent two-decimal display precision as a statutory Section 30B requirement.
+
