@@ -94,6 +94,7 @@ test('Lorenz curve is rendered from production remuneration values',()=>{
   assert.match(html,/Perfect equality/);
   assert.match(html,/Whole-distribution lens/);
   const overview=html.slice(html.indexOf('function overview(){'),html.indexOf('function breakdownTable('));
-  assert.doesNotMatch(overview,/Statistical outlier summary/);
-  assert.match(html,/Exploratory outlier check/);
+  assert.match(overview,/Statistical outlier summary/);
+  assert.match(overview,/Internal remuneration inequality/);
+  assert.doesNotMatch(overview,/Exploratory outlier check/);
 });
